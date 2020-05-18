@@ -14,6 +14,7 @@
  Members : 마스터즈 멤버들의 오픈소스 기여 활동 기록 폴더
 
  (English)
+ 
  Toddler.md : Master Program Participants 
  
  Walker.md : Commit more than 5 times
@@ -23,3 +24,5 @@
  Master.md : Issue resolution  30 more
  
  Mentor.md : Mentor with Masters Program
+ 
+ Members : Master Members activities
