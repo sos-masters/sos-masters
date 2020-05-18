@@ -24,3 +24,5 @@
  Master.md : Issue resolution  30 more
  
  Mentor.md : Mentor with Masters Program
+ 
+ Members : Master Members activities
