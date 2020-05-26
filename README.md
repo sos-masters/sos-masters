@@ -3,7 +3,7 @@
   
  Toddler.md : Master 프로그램 참가자 
  
- Walker.md : 오픈소스 commit 10회 이상
+ Walker.md : 오픈소스 PR 5회 이상
  
  Runner.md : Issue 해결 10건 이상
  
@@ -17,7 +17,7 @@
  
  Toddler.md : Master Program Participants 
  
- Walker.md : Commit more than 5 times
+ Walker.md : more 5 pull requests 
  
  Runner.md : Issue resolution 10 more
  
