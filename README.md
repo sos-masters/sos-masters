@@ -1,17 +1,17 @@
 - **sos-master**
  (Korean)
   
- Toddler.md : Master 프로그램 참가자 
+  >- Toddler.md : Master 프로그램 참가자 
  
- Walker.md : 오픈소스 PR 5회 이상
+  >- Walker.md : 오픈소스 PR 5회 이상
  
- Runner.md : Issue 해결 10건 이상
+  >- Runner.md : Issue 해결 10건 이상
  
- Master.md : 고난이도 Issue 해결 10건 이상
+  >-  Master.md : 고난이도 Issue 해결 10건 이상
+  
+  >-  Mentor.md : 마스터즈 프로그램을 함께하는 오픈소스 멘토들
  
- Mentor.md : 마스터즈 프로그램을 함께하는 오픈소스 멘토들
- 
- Members : 마스터즈 멤버들의 오픈소스 기여 활동 기록 폴더
+  >- Members : 마스터즈 멤버들의 오픈소스 기여 활동 기록 폴더
  
  
 - **마스터즈 참가 오픈소스 Maintainer 가이드**
@@ -29,16 +29,16 @@
  
  (English)
  
- Toddler.md : Master Program Participants 
+ >- Toddler.md : Master Program Participants 
  
- Walker.md : more 5 pull requests 
+ >- Walker.md : more 5 pull requests 
  
- Runner.md : Issue resolution 10 more
+ >- Runner.md : Issue resolution 10 more
  
- Master.md : Issue resolution  30 more
+ >- Master.md : Issue resolution  30 more
  
- Mentor.md : Mentor with Masters Program
+ >- Mentor.md : Mentor with Masters Program
  
- Members : Master Members activities
+ >- Members : Master Members activities
  
  
