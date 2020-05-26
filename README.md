@@ -1,5 +1,4 @@
-- **sos-master**
- (Korean)
+- **sos-master** (Korean)
   
   >- Toddler.md : Master 프로그램 참가자 
  
@@ -29,7 +28,8 @@
   >>- 이슈 제목 : [해당 오픈소스 이름] 이슈 내용 #이슈 넘버
   >>- 이슈 내용 : 기존 커뮤니티 이슈 링크
  
- (English)
+ 
+ - **sos-master** (English)
  
   >- Toddler.md : Master Program Participants 
  
