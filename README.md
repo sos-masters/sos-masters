@@ -15,7 +15,7 @@
  
  
   - **마스터즈 참가 오픈소스 Maintainer 가이드**
-  >- 마스터즈에 Maintainer 분들이 오픈소스 참가를 신청해주세요. (sos-msaters@samsugn.com)
+  >- 마스터즈에 Maintainer 분들이 오픈소스 참가를 신청해주세요. (sos.masters@samsugn.com)
   >>- 신청해주신 오픈소스가 문제가 없을 시 검토 후 https://opensource.samsung.com/community/master 의 대상 오픈소스에 반영됩니다. 
  
   >- 운영하시는 오픈소스 이슈들에 sos-masters 라벨을 붙여주세요. 
