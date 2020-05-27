@@ -1,5 +1,7 @@
  
-- **sos-master** (Korean) : https://opensource.samsung.com/community/master 가이드 참고
+ ** [마스터즈 프로그램 홈페이지](https://opensource.samsung.com/community/master) 가이드 참고**
+ 
+- **sos-master** (Korean) 
   
   >- Toddler.md : Master 프로그램 참가자 
  
