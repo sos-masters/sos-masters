@@ -15,7 +15,7 @@
  
   >- Members : 마스터즈 멤버들의 오픈소스 기여 활동 기록 폴더
  
- - **sos-master** (English)
+- **sos-master** (English)
  
   >- Toddler.md : Master Program Participants 
  
