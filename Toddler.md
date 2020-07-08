@@ -5,4 +5,4 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
-|Shredlife|[dia321](https://github.com/dia321)|
+|Shred Life|[dia321](https://github.com/dia321)|
