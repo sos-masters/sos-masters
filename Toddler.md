@@ -6,4 +6,3 @@
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
 |Hyunmin Choi|[Gal2o](https://github.com/Gal2o)|
-a
