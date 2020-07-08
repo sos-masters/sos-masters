@@ -4,4 +4,4 @@
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
-|songda-i|[song](https://github.com/songda-i)|
+|songda-i|[songda-i](https://github.com/songda-i)|
