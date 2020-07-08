@@ -5,3 +5,4 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
+|Soyeong Kim|[Soyeong-k-1230](https://github.com/Soyeong-k-1230)|
