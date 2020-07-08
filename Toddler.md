@@ -4,4 +4,4 @@
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
-|sos-apply-masters|[qkdtmd0315](https://github.com/qkdtmd0315)|
+|SeungHwan Bang|[qkdtmd0315](https://github.com/qkdtmd0315)|
