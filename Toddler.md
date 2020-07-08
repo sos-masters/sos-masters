@@ -5,4 +5,4 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
-|BrightJun|[brightj529](https://github.com/brightj529)|
+|BrightJun|[bright-jun](https://github.com/bright-jun)|
