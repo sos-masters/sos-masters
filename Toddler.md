@@ -4,4 +4,4 @@
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
-|Edited|[kangtegong](https://github.com/kangtegong)|
+|Yubin Je|[yubje](https://github.com/yubje)|
