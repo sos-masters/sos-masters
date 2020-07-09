@@ -23,3 +23,4 @@
 |Yoonjeong|[yj1008](https://github.com/yj1008)| 
 |Sanghyun Lee|[sanghyunlee93](https://github.com/sanghyunlee93)|
 |YeolHo Seong|[yeoro](https://github.com/yeoro)|
+|Yeonsu Kim|[mightykim91](https://github.com/mightykim91)|
