@@ -5,4 +5,9 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
+|Jupyo Hong|[ohdnf](https://github.com/ohdnf)|
+|Dongock Lee|[Dongock](https://github.com/Dongock)|
+|yeggu_e|[yeafla530](https://github.com/yeafla530)|
+|hyunwoo Rim|[hyunwoo](https://github.com/lhw0215)|
+|Blancdu|[hongsj36](https://github.com/hongsj36)|
 |mungto|[daum7766](https://github.com/daum7766)|
