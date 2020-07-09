@@ -21,3 +21,4 @@
 |Hyeong Taek Kim|[hyungtaik](https://github.com/hyungtaik)|
 |TreeShin|[ShinTree](https://github.com/ShinTree)|
 |Yoonjeong|[yj1008](https://github.com/yj1008)| 
+|Sanghyun Lee|[sanghyunlee93](https://github.com/sanghyunlee93)|
