@@ -16,3 +16,4 @@
 |Seunghyuk Shin|[seunghyukshin](https://github.com/seunghyukshin)|
 |hyemin|[Rheemhyemin](https://github.com/Rheemhyemin)|
 |SungHyeon Lee|[lshmn951](https://github.com/lshmn951)|
+|Kyuseong Jo|[Jokyuseong](https://github.com/Jokyuseong)|
