@@ -45,3 +45,4 @@
 |yusoojeong|[yusj1231](https://github.com/yusoojeong)|
 |HyeongSeock Ahn|[john-jyal](https://github.com/john-jyal)|
 |YongHo|[myh9410](https://github.com/myh9410)|
+|Seunghee Jeong|[seunghee6022](https://github.com/seunghee6022)|
