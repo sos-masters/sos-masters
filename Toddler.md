@@ -24,3 +24,4 @@
 |Sanghyun Lee|[sanghyunlee93](https://github.com/sanghyunlee93)|
 |YeolHo Seong|[yeoro](https://github.com/yeoro)|
 |Yeonsu Kim|[mightykim91](https://github.com/mightykim91)|
+|Taewoong|[omg-xodnd](https://github.com/omg-xodnd)|
