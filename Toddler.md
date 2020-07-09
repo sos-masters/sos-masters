@@ -6,3 +6,4 @@
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
 |Jupyo Hong|[ohdnf](https://github.com/ohdnf)|
+|Dongock Lee|[Dongock](https://github.com/Dongock)|
