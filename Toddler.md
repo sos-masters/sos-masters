@@ -47,3 +47,4 @@
 |YongHo|[myh9410](https://github.com/myh9410)|
 |Seunghee Jeong|[seunghee6022](https://github.com/seunghee6022)|
 |Hyung Jin|[wjsgudwls89](https://github.com/wjsgudwls89)|
+|lsdtve|[lsdtve](https://github.com/lsdtve/sos-masters)|
