@@ -50,3 +50,4 @@
 |lsdtve|[lsdtve](https://github.com/lsdtve/sos-masters)|
 |Jaebin Cho|[jaebee94](https://github.com/jaebee94)|
 |Wonsang Ki|[wonsangki](https://github.com/wonsangki/)|
+|Jihoon Ham|[jhham96](https://github.com/jhham96)|
