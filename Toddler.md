@@ -52,3 +52,5 @@
 |Wonsang Ki|[wonsangki](https://github.com/wonsangki/)|
 |Jihoon Ham|[jhham96](https://github.com/jhham96)|
 |Kyungmin|[kmathl96](https://github.com/kmathl96)|
+|Eunjae Lee|[silverjjj](https://github.com/silverjjj)|
+|Yoonseok Cha|[c9boom7](https://github.com/c9boom7)|
