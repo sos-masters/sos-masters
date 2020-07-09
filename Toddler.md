@@ -35,3 +35,4 @@
 |Jongho|[WallGGom](https://github.com/WallGGom)|
 |Byoungkuk|[dlush93](https://github.com/dlush93)|
 |Seongheon Kim|[seongheon-dev](https://github.com/seongheon-dev)|
+|Juhyun Kim|[chloe-codes1](https://github.com/chloe-codes1)|
