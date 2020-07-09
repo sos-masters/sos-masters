@@ -20,3 +20,4 @@
 |So Ra Chin|[sorachin](https://github.com/sorachin)|
 |Hyeong Taek Kim|[hyungtaik](https://github.com/hyungtaik)|
 |TreeShin|[ShinTree](https://github.com/ShinTree)|
+|Yoonjeong|[yj1008](https://github.com/yj1008)| 
