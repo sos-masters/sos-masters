@@ -26,6 +26,6 @@
 |Yeonsu Kim|[mightykim91](https://github.com/mightykim91)|
 |Youngjoo Kim|[kei9641](https://github.com/kei9641)| 
 |Taewoong|[omg-xodnd](https://github.com/omg-xodnd)|
+|Byoungkyu Jeon|[kyustar](https://github.com/kyustar)|
 |Hyeonjun Jang|[jhj9109](https://github.com/jhj9109)|
 |Junsoo Park|[junsoodark](https://github.com/junsoodark)|
-
