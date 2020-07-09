@@ -30,3 +30,4 @@
 |Hyeonjun Jang|[jhj9109](https://github.com/jhj9109)|
 |Junsoo Park|[junsoodark](https://github.com/junsoodark)|
 |Seokwoo Park|[pseokwooo](https://github.com/pseokwooo)|
+|moos2|[moos2](https://github.com/moos2)|
