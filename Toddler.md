@@ -27,4 +27,3 @@
 |Taewoong|[omg-xodnd](https://github.com/omg-xodnd)|
 |Hyeonjun Jang|[jhj9109](https://github.com/jhj9109)|
 |Junsoo Park|[junsoodark](https://github.com/junsoodark)|
-
