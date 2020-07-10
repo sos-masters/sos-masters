@@ -131,3 +131,4 @@
 |Yeji Son|[sonyeji](https://github.com/sonyeji)|
 |Daegil Lee|[eedaegil](https://github.com/eedaegil)|
 |Siyoung Kim|[JudyH0pps](https://github.com/JudyH0pps)|
+|Rodri|[Hyunseok-Jeong](https://github.com/Hyunseok-Jeong)|
