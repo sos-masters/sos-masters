@@ -56,3 +56,4 @@
 |Yoonseok Cha|[c9boom7](https://github.com/c9boom7)|
 |Hyeongseob Lim|[iii3](https://github.com/hyeongseoblim)|
 |jaeriiimy|[ParkJaeRim](https://github.com/ParkJaeRim)|
+|lsdtve|[lsdtve](https://github.com/lsdtve/sos-masters)|
