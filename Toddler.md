@@ -130,3 +130,4 @@
 |Eun Seok|[epser93](https://github.com/epser93)|
 |Yeji Son|[sonyeji](https://github.com/sonyeji)|
 |Daegil Lee|[eedaegil](https://github.com/eedaegil)|
+|Siyoung Kim|[JudyH0pps](https://github.com/JudyH0pps)|
