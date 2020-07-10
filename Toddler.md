@@ -129,3 +129,4 @@
 |sangwoo0727|[kangsangwoo](https://github.com/sangwoo0727)|
 |Eun Seok|[epser93](https://github.com/epser93)|
 |Yeji Son|[sonyeji](https://github.com/sonyeji)|
+|Daegil Lee|[eedaegil](https://github.com/eedaegil)|
