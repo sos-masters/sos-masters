@@ -57,3 +57,4 @@
 |Hyeongseob Lim|[iii3](https://github.com/hyeongseoblim)|
 |jaeriiimy|[ParkJaeRim](https://github.com/ParkJaeRim)|
 |lsdtve|[lsdtve](https://github.com/lsdtve/sos-masters)|
+|JinWoo Jang|[Hellojinoo](https://github.com/Hellojinoo)|
