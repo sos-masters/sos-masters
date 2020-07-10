@@ -141,3 +141,4 @@
 |Jieun|[jjiiiiinie](https://github.com/jjiiiiinie)|
 |Dongn|[Dongn622](https://github.com/Dongn622)|
 |Jongwoo Lee|[jongwoo328](https://github.com/jongwoo328)|
+|Myeongji Son|[ji-exitosa](https://github.com/ji-exitosa)|
