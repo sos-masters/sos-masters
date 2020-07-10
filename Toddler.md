@@ -116,3 +116,4 @@
 |SooHyunKIM|[dlem5133](https://github.com/dlem5133)|
 |Jihyeok|[Jihyeok11](https://github.com/Jihyeok11)|
 |Soobyeong Choi|[chltnqud0](https://github.com/chltnqud0)|
+|RiRi|[yuhyerin](https://github.com/yuhyerin)|
