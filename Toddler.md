@@ -118,3 +118,4 @@
 |Soobyeong Choi|[chltnqud0](https://github.com/chltnqud0)|
 |RiRi|[yuhyerin](https://github.com/yuhyerin)|
 |MuYoung|[amoong](https://github.com/amoong)|
+|Eojin Yang|[eojine](https://github.com/eojine)|
