@@ -83,3 +83,4 @@
 |Hyunjin Song|[hjsong333](https://github.com/hjsong333)|
 |Donghwi Kim|[wheeking](https://github.com/wheeking)|
 |SooHyun|[soohyun0907](https://github.com/soohyun0907)|
+|Harin Jeong|[Girrow](https://github.com/Girrow)|
