@@ -72,3 +72,4 @@
 |SiYoung Kim|[doongdoong](https://github.com/doongdoong)|
 |Jinhwan|[ehtlfk](https://github.com/ehtlfk)|
 |Yechan Lim|[wonthechan](https://github.com/wonthechan)|
+|BrightJun|[bright-jun](https://github.com/bright-jun)|
