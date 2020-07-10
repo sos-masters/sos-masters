@@ -76,3 +76,4 @@
 |YeonJu Hong | [yeonjudkwl](https://github.com/yeonjudkwl)|
 |Soomi Cho|[soomi1632](https://github.com/soomi1632)|
 |Taein Kim|[marrywill](https://github.com/marrywill)|
+|eun|[ee2e](https://github.com/ee2e)|
