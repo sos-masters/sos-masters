@@ -61,3 +61,4 @@
 |Mapbox|[gjtjdtn201](https://github.com/gjtjdtn201)|
 |Jingueon Jeong|[jjk806](https://github.com/jjk806)|
 |Juhyeon Seo|[jokebear](https://github.com/jokebear)|
+|Minee|[KSM0805](https://github.com/KSM0805)|
