@@ -60,3 +60,4 @@
 |JinWoo Jang|[Hellojinoo](https://github.com/Hellojinoo)|
 |Mapbox|[gjtjdtn201](https://github.com/gjtjdtn201)|
 |Jingueon Jeong|[jjk806](https://github.com/jjk806)|
+|Juhyeon Seo|[jokebear](https://github.com/jokebear)|
