@@ -125,3 +125,4 @@
 |kimbabo|[glfhdl](https://github.com/glfhdl)|
 |goaxhfdl|[goaxhfdl](https://github.com/goaxhfdl)|
 |Bogeun Choi|[Bogeunsss](https://github.com/Bogeunsss)|
+|Kimsungjoong|[Kimsungjoong](https://github.com/Kimsungjoong)|
