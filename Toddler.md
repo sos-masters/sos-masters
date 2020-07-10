@@ -74,3 +74,4 @@
 |Yechan Lim|[wonthechan](https://github.com/wonthechan)|
 |BrightJun|[bright-jun](https://github.com/bright-jun)|
 |YeonJu Hong | [yeonjudkwl](https://github.com/yeonjudkwl)|
+|Soomi Cho|[soomi1632](https://github.com/soomi1632)|
