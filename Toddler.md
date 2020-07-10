@@ -134,3 +134,4 @@
 |Rodri|[Hyunseok-Jeong](https://github.com/Hyunseok-Jeong)|
 |Mancity Ballboy|[yhnb3](https://github.com/yhnb3)|
 |Giseok Oh|[ohgiseok](https://github.com/ohgiseok)|
+|Kangmin|[KangminP](https://github.com/kangminP)|
