@@ -63,3 +63,4 @@
 |Juhyeon Seo|[jokebear](https://github.com/jokebear)|
 |Minee|[KSM0805](https://github.com/KSM0805)|
 |In-Yeong|[In-Yeong](https://github.com/In-Yeong)|
+|Tinnia|[tinnia](https://github.com/tinnia)|
