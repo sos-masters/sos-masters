@@ -73,3 +73,4 @@
 |Jinhwan|[ehtlfk](https://github.com/ehtlfk)|
 |Yechan Lim|[wonthechan](https://github.com/wonthechan)|
 |BrightJun|[bright-jun](https://github.com/bright-jun)|
+|YeonJu Hong | [yeonjudkwl](https://github.com/yeonjudkwl)|
