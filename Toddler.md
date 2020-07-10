@@ -82,3 +82,4 @@
 |Hyunjong1461|[Hyunjong1461](https://github.com/Hyunjong1461)|
 |Hyunjin Song|[hjsong333](https://github.com/hjsong333)|
 |Donghwi Kim|[wheeking](https://github.com/wheeking)|
+|SooHyun|[soohyun0907](https://github.com/soohyun0907)|
