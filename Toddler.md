@@ -110,6 +110,7 @@
 |bwin9509-KimSeungHwan|[bwin9509](https://github.com/bwin9509)|
 |5weeks|[5weeks](https://github.com/5weeks)|
 |Jihoon Lee|[stebia](https://github.com/stebia)|
+|Lunarus|[lunarus00](https://github.com/lunarus00)|
 |SeungHwan Bang|[qkdtmd0315](https://github.com/qkdtmd0315)|
 |JH Baek|[bjh7013](https://github.com/bjh7013)|
 |Erinnard|[Erinnard](https://github.com/Erinnard)|
