@@ -103,3 +103,4 @@
 |Kylie Han|[kylie-han](https://github.com/kylie-han)|
 |eppy|[eppy](https://github.com/eppy7819)|
 |XECOH|[XECOH](https://github.com/XECOH)|
+|Jaesung Ju|[jjs-0305](https://github.com/JJS-0305)|
