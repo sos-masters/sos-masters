@@ -121,3 +121,4 @@
 |Eojin Yang|[eojine](https://github.com/eojine)|
 |Yongsu Lee|[LeeYongsu-ssafy](https://github.com/LeeYongsu-ssafy)|
 |JooHyun|[james0223](https://github.com/james0223)|
+|kimbabo|[glfhdl](https://github.com/glfhdl)|
