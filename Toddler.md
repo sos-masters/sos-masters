@@ -104,3 +104,4 @@
 |eppy|[eppy](https://github.com/eppy7819)|
 |XECOH|[XECOH](https://github.com/XECOH)|
 |Jaesung Ju|[jjs-0305](https://github.com/JJS-0305)|
+|Hojin Choi|[chj3748](https://github.com/chj3748)|
