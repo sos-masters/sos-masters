@@ -138,5 +138,6 @@
 |Hyein Jun|[hyeinJun](https://github.com/Devhyein)|
 |Yunmin Lee|[leeyunmin](https://github.com/leeyunmin)|
 |Sanghyeok Jeon|[houek0307](https://github.com/houek0307)|
+|Jieun|[jjiiiiinie](https://github.com/jjiiiiinie)|
 |Dongn|[Dongn622](https://github.com/Dongn622)|
 |Jongwoo Lee|[jongwoo328](https://github.com/jongwoo328)|
