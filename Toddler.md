@@ -64,3 +64,4 @@
 |Minee|[KSM0805](https://github.com/KSM0805)|
 |In-Yeong|[In-Yeong](https://github.com/In-Yeong)|
 |Tinnia|[tinnia](https://github.com/tinnia)|
+|Munkyung Choi|[mk0324](https://github.com/mk0324)|
