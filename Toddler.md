@@ -110,3 +110,4 @@
 |bwin9509-KimSeungHwan|[bwin9509](https://github.com/bwin9509)|
 |5weeks|[5weeks](https://github.com/5weeks)|
 |Jihoon Lee|[stebia](https://github.com/stebia)|
+|SeungHwan Bang|[qkdtmd0315](https://github.com/qkdtmd0315)|
