@@ -91,3 +91,4 @@
 |Jaein Hyun|[tigerk11](https://github.com/tigerk11)|
 |Shred Life|[dia321](https://github.com/dia321)|
 |parksunhae|[tjsgo](https://github.com/tjsgo)|
+|Sohee Kim|[dev-sohi9732](https://github.com/dev-sohi9732)|
