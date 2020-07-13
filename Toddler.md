@@ -207,4 +207,7 @@
 |G Yu|[lukelookluck](https://github.com/lukelookluck)|
 |Kimjunki-0903|[Kimjunki-0903](https://github.com/Kimjunki-0903)|
 |Kim Young Min|[Kastori1206](https://github.com/Kastori1206)|
+|Jin Park|[cent10](https://github.com/cent10)|
+|Ogayong-dev|[Ogayong-dev](https://github.com/Ogayong-dev)|
+|Stanley Jang|[st](https://github.com/Hanbyeol-Jang)|
 |Hyungjun Kim|[khj5877](https://github.com/khj5877)|
