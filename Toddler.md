@@ -181,3 +181,4 @@
 |sos-master-apply|[jinhee96](https://github.com/jinhee96)|
 |Minze|[Minze-kim](https://github.com/Minze-kim)|
 |Yooncoder|[hawhdgus](https://github.com/Yooncoder)|
+|Tae-jung|[Tae-jung](https://github.com/Tae-jung)|
