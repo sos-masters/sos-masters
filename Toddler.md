@@ -147,3 +147,4 @@
 |Janghu Kim|[kimjanghu](https://github.com/kimjanghu)|
 |sos-apply-youbin|[youbin-shin](https://github.com/youbin-shin)|
 |Jimin Lim|[jiminlim](https://github.com/jiminlim)|
+|Kyle Seo|[swse9465](https://github.com/swse9465)|
