@@ -252,3 +252,4 @@
 |Dupyo Hong|[hdp0545](https://github.com/hdp0545)|
 |Hangrae|[HangraeCho](https://github.com/HangraeCho)|
 |SeungBeom Park|[psb9559](https://github.com/psb9559)|
+|jane|[jane399](https://github.com/jane399)|
