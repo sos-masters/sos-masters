@@ -178,3 +178,4 @@
 |Keonho Park|[ParkKeonHo](https://github.com/ParkKeonHo)|
 |Hohan Kim|[KHH](https://github.com/kimhohan)|
 |Lee Chang Ro|[ckdfh0917](https://github.com/ckdfh0917)|
+|sos-master-apply|[jinhee96](https://github.com/jinhee96)|
