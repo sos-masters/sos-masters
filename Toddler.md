@@ -171,3 +171,4 @@
 |nohtaegeuk|[nohtaegeuk](https://github.com/nohtaegeuk)|
 |parksucheol|[parksucheol](https://github.com/parksucheol)|
 |Yunjin Kim|[YNNJN](https://github.com/YNNJN)|
+|Jinyeop|[jinyeop-yang](https://github.com/jinyeop-yang)|
