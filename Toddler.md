@@ -245,3 +245,4 @@
 |Seunghyun Shin|[tlsdorye](https://github.com/tlsdorye)|
 |jieun Park|[parkjieun](https://github.com/parkjieun)|
 |bock|[bock](https://github.com/bbockmin)|
+|ChaeYeong|[leechaeyeong](https://github.com/leechaeyeong)|
