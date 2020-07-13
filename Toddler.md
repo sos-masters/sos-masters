@@ -234,3 +234,4 @@
 |Jaein Lee|[ljaein](https://github.com/ljaein)|
 |Yoonhwan Jung|[unani92](https://github.com/unani92)|
 |kswoong1819|[kswoong1819](https://github.com/kswoong1819)|
+|Nayun Kim|[kimnayu](https://github.com/kimnayu)|
