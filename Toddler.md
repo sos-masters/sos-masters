@@ -154,3 +154,4 @@
 |sunggeun|[sungguenja](https://github.com/sungguenja)|
 |Jiyoon|[Jiyoon-park](https://github.com/Jiyoon-park)|
 |Byungjoon Bae|[rwycress](https://github.com/rwycress)|
+|YouJin Hyun|[hyunyj21](https://github.com/hyunyj21)|
