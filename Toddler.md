@@ -228,3 +228,4 @@
 |bosong|[KIMBOSEO](https://github.com/KIMBOSEO)|
 |Doyen Kim|[doyeon-kim-93](https://github.com/doyeon-kim-93)|
 |jiminwu|[jiminwu](https://github.com/jiminwu)|
+|Eunchong Shin|[chd830](https://github.com/chd830)|
