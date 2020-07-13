@@ -159,3 +159,4 @@
 |ChangHyun Kang|[aaakch0316](https://github.com/aaakch0316)|
 |sos-apply-masrers|[rlathgml](https://github.com/rlathgml)|
 |wonjun9090|[wonjun9090](https://github.com/wonjun9090)|
+|jihoon kim|[Nick](https://github.com/skswlgns)|
