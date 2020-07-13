@@ -255,3 +255,4 @@
 |jane|[jane399](https://github.com/jane399)|
 |Yeonhee Choi|[yeon-hee](https://github.com/yeon-hee)|
 |Jongseok Na|[suwonraison900206](https://github.com/suwonraison900206)| 
+|Jaeyoung Kim|[jkim0715](https://github.com/jkim0715)|
