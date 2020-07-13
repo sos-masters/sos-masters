@@ -145,3 +145,4 @@
 |danbi|[danbi-baek](https://github.com/danbi-baek)|
 |Younghwan Kim|[KimYoungHwan5521](https://github.com/KimYoungHwan5521)|
 |Janghu Kim|[kimjanghu](https://github.com/kimjanghu)|
+|sos-apply-youbin|[youbin-shin](https://github.com/youbin-shin)|
