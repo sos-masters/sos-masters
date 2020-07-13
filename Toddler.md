@@ -165,3 +165,4 @@
 |YoungNam Kim|[muckyang](https://github.com/muckyang)|
 |Juhwan Jang|[zjohn99](https://github.com/zjohn99)|
 |Mosquitto|[MosquittoP](https://github.com/MosquittoP)|
+|SOL|[hsolk](https://github.com/hsolk)|
