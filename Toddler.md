@@ -152,3 +152,4 @@
 |Hyunjin|[guswls](https://github.com/guswls)|
 |sururu|[sururuu](https://github.com/sururuu)|
 |sunggeun|[sungguenja](https://github.com/sungguenja)|
+|Jiyoon|[Jiyoon-park](https://github.com/Jiyoon-park)|
