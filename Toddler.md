@@ -192,3 +192,4 @@
 |Dongryul|[dongryul123](https://github.com/dongryul123)|
 |Taesang Kim|[kts0709](https://github.com/kts0709)|
 |BakMeyoungSue|[bakmeyoungsu](https://github.com/bakmeyoungsu/)|
+|Taesun You|[Taesun94](https://github.com/Taesun94)|
