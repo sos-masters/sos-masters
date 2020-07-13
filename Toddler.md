@@ -157,3 +157,4 @@
 |YouJin Hyun|[hyunyj21](https://github.com/hyunyj21)|
 |sj|[szszszs](https://github.com/szszszs)|
 |ChangHyun Kang|[aaakch0316](https://github.com/aaakch0316)|
+|sos-apply-masrers|[rlathgml](https://github.com/rlathgml)|
