@@ -186,3 +186,4 @@
 |Miso|[dabini](https://github.com/dabini)|
 |KimDongUk|[KimDongUk](https://github.com/KRystalTearHunterKimKR)|
 |Jeong Ohmpang|[mznx13579](https://github.com/mznx13579)|
+|Korean|[ksb8320](https://github.com/ksb8320)|
