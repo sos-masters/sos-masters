@@ -197,3 +197,4 @@
 |hongbboro|[jong0717](https://github.com/jong0717)|
 |DongGyu Lee|[Marco](https://github.com/DonggyuLee92)|
 |Yeonuk Jeong|[JeongYeonUk](https://github.com/JeongYeonUk)|
+|Infinit Apple|[infinitapple](https://github.com/infinitapple)|
