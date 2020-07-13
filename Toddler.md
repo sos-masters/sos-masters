@@ -250,3 +250,4 @@
 |JunMo|[JunMo](https://github.com/GuJunMo)|
 |Hyunmin Choi|[Gal2o](https://github.com/Gal2o)|
 |Dupyo Hong|[hdp0545](https://github.com/hdp0545)|
+|Hangrae|[HangraeCho](https://github.com/HangraeCho)|
