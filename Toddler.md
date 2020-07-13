@@ -242,3 +242,4 @@
 |SeungHwa Jin|[robbochy](https://github.com/robbochy)|
 |JeongHun|[onooff](https://github.com/onooff)|
 |Kyungjae Kim|[kyungjae-kim](https://github.com/kyungjae-kim)|
+|Seunghyun Shin|[tlsdorye](https://github.com/tlsdorye)|
