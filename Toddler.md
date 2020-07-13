@@ -257,3 +257,4 @@
 |Jongseok Na|[suwonraison900206](https://github.com/suwonraison900206)| 
 |Jaeyoung Kim|[jkim0715](https://github.com/jkim0715)|
 |hoonseob|[hoonseob](https://github.com/hoonseob)|
+|Minji Kwon|[psS2mj](https://github.com/psS2mj)|
