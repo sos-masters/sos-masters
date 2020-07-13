@@ -170,3 +170,4 @@
 |Yeji Lee|[yagee97](https://github.com/yagee97)|
 |nohtaegeuk|[nohtaegeuk](https://github.com/nohtaegeuk)|
 |parksucheol|[parksucheol](https://github.com/parksucheol)|
+|Yunjin Kim|[YNNJN](https://github.com/YNNJN)|
