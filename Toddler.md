@@ -202,3 +202,4 @@
 |test_jung|[jung9156](https://github.com/jung9156)|
 |SunAh|[Sunaaaa](https://github.com/Sunaaaa)|
 |Ruel Lee|[RuelLee](https://github.com/RuelLee)|
+|Daguang|[jaegyeongkim](https://github.com/jaegyeongkim)|
