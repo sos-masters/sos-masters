@@ -399,3 +399,4 @@
 |ksh|[girawhale](https://github.com/girawhale)|
 |Steve|[seongmanPark](https://github.com/SeongmanPark)|
 |JS Park|[ahrtz](https://github.com/ahrtz)|
+|SeungMin|[dkqyqyt](https://github.com/dkqyqyt)|
