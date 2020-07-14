@@ -386,3 +386,4 @@
 |bbangso|[bbangso](https://github.com/bbangso)|
 |bristlecone|[ssafy-memory](https://github.com/ssafy-memory)|
 |suhyunHwang|[suhyunHwang](https://github.com/suhyunHwang)|
+|Edgar Lee|[Donghyeok-Lee](https://github.com/Donghyeok-Lee)|
