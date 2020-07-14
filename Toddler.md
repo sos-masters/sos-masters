@@ -345,3 +345,4 @@
 |JiHong Kim|[JiHongKim15](https://github.com/JiHOngKim15)|
 |Sejeong Yu|[yusejeong](https://github.com/yusejeong)|
 |KyuBot|[KyuBot](https://github.com/kangtegong/KyuBot)|
+|Hyejin Park|[du-dung](https://github.com/du-dung)|
