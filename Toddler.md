@@ -353,3 +353,4 @@
 |Heewoong Park|[parkheewoong](https://github.com/parkheewoong)|
 |Inho Kim|[innoinho](https://github.com/innoinho)|
 |Yeongbu Cha|[kennycha](https://github.com/kennycha)|
+|Chae Lin Shin|[scl2589](https://github.com/scl2589)|
