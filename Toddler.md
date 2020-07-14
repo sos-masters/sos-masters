@@ -323,3 +323,4 @@
 |Jisu5|[Jisu5](https://github.com/Jisu5)|
 |Mingi Jo|[ho-dduc](https://github.com/ho-dduc)|
 |Hanbyeol Lee|[leehanbuly](https://github.com/leehanbuly)|
+|duqrud|[duqrud](https://github.com/duqrud)|
