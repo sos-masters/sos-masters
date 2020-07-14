@@ -273,3 +273,4 @@
 |oheong|[oheong](https://github.com/oheong)|
 |Jiwoong Kim|[ShiftAnt](https://github.com/ShiftAnt)|
 |zunzunzun|[zunzunzun](https://github.com/zunzunzun)|
+|MakJuho|[MakJuho](https://github.com/makjuho)|
