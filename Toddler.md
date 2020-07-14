@@ -379,3 +379,4 @@
 |1000Min|[phm0127](https://github.com/phm0127)|
 |Taein Kim|[uutaein](https://github.com/uutaein)
 |LeeHeeJun|[dlgmlwns](https://github.com/dlgmlwns)|
+|Minseong Seo|[cbnm9](https://github.com/cbnm9)|
