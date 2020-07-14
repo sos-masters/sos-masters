@@ -343,3 +343,4 @@
 |HansukYu|[yusw10](https://github.com/yusw10)|
 |Jaehyuk Choi|[JaehyukChoi923](https://github.com/JaehyukChoi923)|
 |JiHong Kim|[JiHongKim15](https://github.com/JiHOngKim15)|
+|Sejeong Yu|[yusejeong](https://github.com/yusejeong)|
