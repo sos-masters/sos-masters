@@ -334,3 +334,4 @@
 |v14chav|[v14chav](https://github.com/v14chav)|
 |Caddy Spoon|[caddyspoon](https://github.com/caddyspoon)|
 |KIM|[KJW159](https://github.com/KJW159)|
+|Jiyoung Kim|[jiyoung1329](https://github.com/jiyoung1329)|
