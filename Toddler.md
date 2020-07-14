@@ -383,3 +383,4 @@
 |Haram Jang|[Haramble](https://github.com/Haramble)|
 |SoonBeen Kim|[soo-ni](https://github.com/soo-ni)|
 |Younghoon Kim|[kyhoon001](https://github.com/kyhoon001)|
+|bbangso|[bbangso](https://github.com/bbangso)|
