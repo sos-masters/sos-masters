@@ -286,3 +286,4 @@
 |Jihyeon Kim|[rlawlgus322](https://github.com/KimJihyeon)|
 |Genius-turtle|[6GeniusTurtle9](https://github.com/6GeniusTurtle9)|
 |Minju Kim|[lumink](https://github.com/lumink)|
+|ChanSeok|[ByunChanSeok](https://github.com/ByunChanSeok)|
