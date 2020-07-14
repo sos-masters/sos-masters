@@ -297,3 +297,4 @@
 |itaemen97|[itaemen97](https://github.com/itaemen97)|
 |Yeji Jo|[yezyvibe](https://github.com/yezyvibe)|
 |Seungki Kim|[kimseungki94](https://github.com/kimseungki94)|
+|soy0vng|[soy0vng](https://github.com/soy0vng)|
