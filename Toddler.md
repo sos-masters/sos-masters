@@ -295,3 +295,4 @@
 |soyeon|[soyeon14](https://github.com/soyeon14)|
 |Seulki Park|[seulki119](https://github.com/seulki119)|
 |itaemen97|[itaemen97](https://github.com/itaemen97)|
+|Yeji Jo|[yezyvibe](https://github.com/yezyvibe)|
