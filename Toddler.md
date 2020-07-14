@@ -377,3 +377,4 @@
 |INHO OH|[kickrisk](https://github.com/kickrisk)|
 |Jinhyuck Kim|[rexiann](https://github.com/REXIANN)|
 |1000Min|[phm0127](https://github.com/phm0127)|
+|Taein Kim|[uutaein](https://github.com/uutaein)
