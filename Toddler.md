@@ -300,3 +300,4 @@
 |soy0vng|[soy0vng](https://github.com/soy0vng)|
 |JungYeb Oh|[ojy95](https://github.com/ojy95)|
 |Jongjun Park|[jongjunpark](https://github.com/jongjunpark)|
+|jaehoon|[jahun00](https://github.com/jahun00/sos-masters)|
