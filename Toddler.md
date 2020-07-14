@@ -341,3 +341,4 @@
 |Kyungjun Yun|[ykj0202](https://github.com/ykj0202)|
 |Karina008|[pjw1234pjw8](https://github.com/Karina008)|
 |HansukYu|[yusw10](https://github.com/yusw10)|
+|Jaehyuk Choi|[JaehyukChoi923](https://github.com/JaehyukChoi923)|
