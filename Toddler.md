@@ -320,3 +320,4 @@
 |Guncho|[Gunwooooo](https://github.com/Gunwooooo)|
 |hyemyeong|[hyemyeong](https://github.com/hyemyeong)|
 |Ha Moon|[WoonKyoung](https://github.com/WoonKyoung)|
+|Jisu5|[Jisu5](https://github.com/Jisu5)|
