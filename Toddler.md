@@ -390,3 +390,4 @@
 |WD26|[one10004](https://github.com/one10004)|
 |Sangwook Yu|[upwook](https://github.com/UpWook)|
 |Inha Yoon|[dlsgk147](https://github.com/dlsgk147)|
+|Jaegu Kang|[94incheon](https://github.com/94incheon)|
