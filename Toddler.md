@@ -374,3 +374,4 @@
 |TaeHyeong|[kimtaehyeong93](https://github.com/kimtaehyeong93)|
 |dongho|[skud8049](https://github.com/skud8049)|
 |YeaJi Kwon|[yejikwon](https://github.com/Yejikwon)|
+|INHO OH|[kickrisk](https://github.com/kickrisk)|
