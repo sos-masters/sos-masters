@@ -400,3 +400,4 @@
 |Steve|[seongmanPark](https://github.com/SeongmanPark)|
 |JS Park|[ahrtz](https://github.com/ahrtz)|
 |SeungMin|[dkqyqyt](https://github.com/dkqyqyt)|
+|Jihyeok Mun|[HYUjihyeok](https://github.com/HYUjihyeok)|
