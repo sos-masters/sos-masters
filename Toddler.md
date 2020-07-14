@@ -344,3 +344,4 @@
 |Jaehyuk Choi|[JaehyukChoi923](https://github.com/JaehyukChoi923)|
 |JiHong Kim|[JiHongKim15](https://github.com/JiHOngKim15)|
 |Sejeong Yu|[yusejeong](https://github.com/yusejeong)|
+|KyuBot|[KyuBot](https://github.com/kangtegong/KyuBot)|
