@@ -357,3 +357,4 @@
 |Yongjoon Seo|[YongjoonSeo](https://github.com/YongjoonSeo)|
 |Yang Hyebin|[skdisk3895](https://github.com/skdisk3895)|
 |Jungwon Kim|[jungwonkkkim](https://github.com/jungwonkkim)|
+|Sooyeon Yun|[sooyeon-y](https://github.com/sooyeon-y)|
