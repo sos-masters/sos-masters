@@ -396,3 +396,4 @@
 |Yurim|[rharnls72](https://github.com/rharnls72)|
 |Jihoon Park|[ampo2787](https://github.com/ampo2787)|
 |Sungoh Jung|[jungsungoh](https://github.com/jungsungoh)|
+|ksh|[girawhale](https://github.com/girawhale)|
