@@ -274,3 +274,4 @@
 |Jiwoong Kim|[ShiftAnt](https://github.com/ShiftAnt)|
 |zunzunzun|[zunzunzun](https://github.com/zunzunzun)|
 |MakJuho|[MakJuho](https://github.com/makjuho)|
+|JinYoung Lee|[leejinzero](https://github.com/leejinzero)|
