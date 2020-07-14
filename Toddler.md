@@ -292,3 +292,4 @@
 |Kihoon Kim|[kingkihoon94](https://github.com/kingkihoon94)|
 |Junil Park|[pji328](https://github.com/pji328)|
 |Yubin Je|[yubje](https://github.com/yubje)|
+|soyeon|[soyeon14](https://github.com/soyeon14)|
