@@ -5,7 +5,6 @@
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
 |ChunSam|[yayyhr](https://github.com/yayyhr)|
 |Minchul Kang|[kangtegong](https://github.com/kangtegong)|
-|CNSon|[ChoneungSon](https://github.com/ChoneungSon)|
 |Jupyo Hong|[ohdnf](https://github.com/ohdnf)|
 |Dongock Lee|[Dongock](https://github.com/Dongock)|
 |yeggu_e|[yeafla530](https://github.com/yeafla530)|
@@ -365,3 +364,6 @@
 |Min Kwon|[minkwon4](https://github.com/minkwon4)|
 |Yun DongHyun|[ydh0520](https://github.com/ydh0520)|
 |Youngbok Lee|[Leeyoungbok](https://github.com/Leeyoungbok)|
+|MyeongSeok Kim|[msnodeve](https://github.com/msnodeve)|
+|CNSon|[ChoneungSon](https://github.com/ChoneungSon)|
+
