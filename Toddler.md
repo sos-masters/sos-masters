@@ -376,3 +376,4 @@
 |YeaJi Kwon|[yejikwon](https://github.com/Yejikwon)|
 |INHO OH|[kickrisk](https://github.com/kickrisk)|
 |Jinhyuck Kim|[rexiann](https://github.com/REXIANN)|
+|Heezzan|[heezzan](https://github.com/heezzan)|
