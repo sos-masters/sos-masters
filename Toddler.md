@@ -1,5 +1,4 @@
 |Nick Name|ID(Github Link Address)|
-|SBHbro|SBHbro|(https://github.com/SBHbro)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -368,3 +367,6 @@
 |CNSon|[ChoneungSon](https://github.com/ChoneungSon)|
 |Chaewon Shin|[chshin0225](https://github.com/chshin0225)|
 |JunHyun|[lkjs00](https://github.com/lkjs00)|
+|Dongyeop|[DongyeopGu](https://github.com/DongyeopGu)|
+|SBHbro|SBHbro|(https://github.com/SBHbro)|
+
