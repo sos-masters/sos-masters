@@ -283,3 +283,4 @@
 |Wonhee Lee|[haruu19](https://github.com/haruu19)|
 |diligentstudent|[ouosssssssa](https://github.com/diligentStudent)|
 |Gyusik Choi|[Gyusik-Choi](https://github.com/Gyusik-Choi)|
+|Jihyeon Kim|[rlawlgus322](https://github.com/KimJihyeon)|
