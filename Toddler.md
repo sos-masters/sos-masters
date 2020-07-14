@@ -348,3 +348,4 @@
 |Hyejin Park|[du-dung](https://github.com/du-dung)|
 |Jinyoung Bae|[wlsdudqo97](https://github.com/wlsdudqo97)|
 |Davichi Jeong|[davichiar](https://github.com/davichiar)|
+|SeungHyun Im|[Seunghyun0606](https://github.com/Seunghyun0606)|
