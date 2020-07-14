@@ -351,3 +351,4 @@
 |SeungHyun Im|[Seunghyun0606](https://github.com/Seunghyun0606)|
 |Sunhwan Park|[SunHwan-Park](https://github.com/SunHwan-Park)|
 |Heewoong Park|[parkheewoong](https://github.com/parkheewoong)|
+|Inho Kim|[innoinho](https://github.com/innoinho)|
