@@ -296,3 +296,4 @@
 |Seulki Park|[seulki119](https://github.com/seulki119)|
 |itaemen97|[itaemen97](https://github.com/itaemen97)|
 |Yeji Jo|[yezyvibe](https://github.com/yezyvibe)|
+|Seungki Kim|[kimseungki94](https://github.com/kimseungki94)|
