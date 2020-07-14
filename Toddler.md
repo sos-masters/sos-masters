@@ -380,3 +380,4 @@
 |Taein Kim|[uutaein](https://github.com/uutaein)
 |LeeHeeJun|[dlgmlwns](https://github.com/dlgmlwns)|
 |Minseong Seo|[cbnm9](https://github.com/cbnm9)|
+|Haram Jang|[Haramble](https://github.com/Haramble)|
