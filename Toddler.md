@@ -346,3 +346,4 @@
 |Sejeong Yu|[yusejeong](https://github.com/yusejeong)|
 |KyuBot|[KyuBot](https://github.com/kangtegong/KyuBot)|
 |Hyejin Park|[du-dung](https://github.com/du-dung)|
+|Jinyoung Bae|[wlsdudqo97](https://github.com/wlsdudqo97)|
