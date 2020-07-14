@@ -325,3 +325,4 @@
 |Hanbyeol Lee|[leehanbuly](https://github.com/leehanbuly)|
 |duqrud|[duqrud](https://github.com/duqrud)|
 |Wonbae Park|[moonshiney](https://github.com/wonbae0417)|
+|Kim-Jaeeun|[Kim-Jaeeun](https://github.com/Kim-Jaeeun)|
