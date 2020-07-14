@@ -282,3 +282,4 @@
 |Hyojin Lim|[hyojin38](https://github.com/hyojin38)|
 |Wonhee Lee|[haruu19](https://github.com/haruu19)|
 |diligentstudent|[ouosssssssa](https://github.com/diligentStudent)|
+|Gyusik Choi|[Gyusik-Choi](https://github.com/Gyusik-Choi)|
