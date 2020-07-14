@@ -369,4 +369,4 @@
 |JunHyun|[lkjs00](https://github.com/lkjs00)|
 |Dongyeop|[DongyeopGu](https://github.com/DongyeopGu)|
 |SBHbro|SBHbro|(https://github.com/SBHbro)|
-
+|Inuk Choi|[InukChoi](https://github.com/InukChoi)|
