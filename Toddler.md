@@ -314,3 +314,4 @@
 |hyeok9sae|[hyeok9sae](https://github.com/hyeok9sae)|
 |Minseok Kang|[minseokkang8571](https://github.com/minseokkang8571)|
 |GuSangBuck|[parkkyoungsoo](https://github.com/parkkyoungsoo)|
+|lando|[lando94](https://github.com/lando94)|
