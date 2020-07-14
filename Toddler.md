@@ -310,3 +310,4 @@
 |Suram Choi|[SURAMCHOI](https://github.com/SURAMCHOI)|
 |Sunghyun Kim|[tjdgus2319](https://github.com/tjdgus2319)|
 |Moon|[Penrir](https://github.com/Penrir)|
+|Deokgi Kim|[deok2kim](https://github.com/deok2kim)|
