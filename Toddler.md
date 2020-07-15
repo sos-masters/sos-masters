@@ -467,3 +467,4 @@
 |Donguk Kim|[gustkdxo007](https://github.com/gustkdxo007)|
 |Jiho|[wlgh325](https://github.com/wlgh325)|
 |Soomin Hwang|[smhwang0109](https://github.com/smhwang0109)|
+|Seungmin Ha|[Seung-minnn](https://github.com/Seung-minnn)|
