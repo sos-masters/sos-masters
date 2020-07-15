@@ -423,3 +423,4 @@
 |KaYunKIM|[KaYunKIM](https://github.com/KaYunKIM)|
 |Starseeker|[starseek34](https://github.com/starseek34)|
 |Eunbi Kim|[eunbikorea](https://github.com/eunbikorea)|
+|Chris|[chriskwon96](https://github.com/chriskwon96)|
