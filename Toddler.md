@@ -446,3 +446,4 @@
 |Yohan Noh|[dygks232](https://github.com/dygks232)|
 |SungMin Ahn|[asm9677](https://github.com/asm9677)|
 |Sunghwan Jeon|[Sunghwan-DS](https://github.com/Sunghwan-DS)|
+|Jeyeon Kim|[jeyeonkim7](https://github.com/jeyeonkim7)|
