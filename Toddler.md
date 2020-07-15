@@ -141,6 +141,7 @@
 |Jieun|[jjiiiiinie](https://github.com/jjiiiiinie)|
 |Dongn|[Dongn622](https://github.com/Dongn622)|
 |Jongwoo Lee|[jongwoo328](https://github.com/jongwoo328)|
+|wodudfox|[tttuer](https://github.com/tttuer)|
 |Myeongji Son|[ji-exitosa](https://github.com/ji-exitosa)|
 |Junhee Lee|[junheeleee](https://github.com/junheeleee)|
 |danbi|[danbi-baek](https://github.com/danbi-baek)|
@@ -471,4 +472,3 @@
 |Soomin Hwang|[smhwang0109](https://github.com/smhwang0109)|
 |Seungmin Ha|[Seung-minnn](https://github.com/Seung-minnn)|
 |Hoyeon Kim|[hoyeonkim795](https://github.com/hoyeonkim795)|
-
