@@ -412,3 +412,4 @@
 |MinHyeong Kang|[rkdals213](https://github.com/rkdals213)|
 |minseobKim|[minseob-Kim](https://github.com/minseob-Kim)|
 |EunJeong Kwak|[iamkkwak](https://github.com/iamkkwak)|
+|Mad Kwang|[kwang5348](https://github.com/kwang5348)|
