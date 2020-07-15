@@ -432,3 +432,4 @@
 |EHJ|[ehj0128](https://github.com/ehj0128)|
 |Ja0Ja0|[JaeH0](https://github.com/JaeH0)|
 |Yeongjin Jung|[yeongjin133](https://github.com/yeongjin133)|
+|Jaemin Son|[woals712](https://github.com/woals712)|
