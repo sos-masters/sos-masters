@@ -437,3 +437,4 @@
 |Jiyoon Woo|[3charmquarks](https://github.com/3charmquarks)|
 |Donggyun Yoo|[whydizzy27](https://github.com/whydizzy27)|
 |Dominic Hong|[Dominic-Hong](https://github.com/Dominic-Hong)|
+|Ha-eun Park|[Minteun](https://github.com/Minteun)|
