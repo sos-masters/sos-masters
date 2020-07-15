@@ -428,3 +428,4 @@
 |HYOJIN LIM|[genie97](https://github.com/genie97)|
 |Dahyeon|[DahyeonL](https://github.com/DahyeonL)|
 |Sangyeol Kim|[tenAbility](https://github.com/tenAbility)|
+|eunjoung|[soleileun](https://github.com/soleileun)|
