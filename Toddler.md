@@ -421,6 +421,7 @@
 |Barkingcode|[barking-code](https://github.com/barking-code)|
 |Sooyeon Lee|[sooy0510](https://github.com/sooy0510)|
 |KaYunKIM|[KaYunKIM](https://github.com/KaYunKIM)|
+|Youngin Lee|[surplus112](https://github.com/surplus112)|
 |Starseeker|[starseek34](https://github.com/starseek34)|
 |Eunbi Kim|[eunbikorea](https://github.com/eunbikorea)|
 |Chris|[chriskwon96](https://github.com/chriskwon96)|
