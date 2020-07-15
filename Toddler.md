@@ -177,6 +177,7 @@
 |Jichan Chung|[jch422](https://github.com/jch422)|
 |Daniel_Lee|[fifa920](https://github.com/fifa920)|
 |KyLin|[tyhtm3](https://github.com/tyhtm3)|
+|Ryuish|[SHRyu416](https://github.com/SHRyu416)|
 |Keonho Park|[ParkKeonHo](https://github.com/ParkKeonHo)|
 |Hohan Kim|[KHH](https://github.com/kimhohan)|
 |Lee Chang Ro|[ckdfh0917](https://github.com/ckdfh0917)|
