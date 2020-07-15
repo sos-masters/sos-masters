@@ -419,3 +419,4 @@
 |SUGLSUGL|[ttppggnnss](https://github.com/ttppggnnss)|
 |Os master|[Wonjyeon](https://github.com/Wonjyeon)|
 |Barkingcode|[barking-code](https://github.com/barking-code)|
+|Sooyeon Lee|[sooy0510](https://github.com/sooy0510)|
