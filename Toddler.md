@@ -141,6 +141,7 @@
 |Jieun|[jjiiiiinie](https://github.com/jjiiiiinie)|
 |Dongn|[Dongn622](https://github.com/Dongn622)|
 |Jongwoo Lee|[jongwoo328](https://github.com/jongwoo328)|
+|Myeongji Son|[ji-exitosa](https://github.com/ji-exitosa)|
 |Junhee Lee|[junheeleee](https://github.com/junheeleee)|
 |danbi|[danbi-baek](https://github.com/danbi-baek)|
 |Younghwan Kim|[KimYoungHwan5521](https://github.com/KimYoungHwan5521)|
