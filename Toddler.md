@@ -372,7 +372,7 @@
 |Chaewon Shin|[chshin0225](https://github.com/chshin0225)|
 |JunHyun|[lkjs00](https://github.com/lkjs00)|
 |Dongyeop|[DongyeopGu](https://github.com/DongyeopGu)|
-|SBHbro|SBHbro|(https://github.com/SBHbro)|
+|SBHbro|[SBHbro](https://github.com/SBHbro)|
 |Inuk Choi|[InukChoi](https://github.com/InukChoi)|
 |GNU Lee|[lkwoo](https://github.com/lkwoo)|
 |TaeHyeong|[kimtaehyeong93](https://github.com/kimtaehyeong93)|
