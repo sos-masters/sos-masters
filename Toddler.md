@@ -72,12 +72,12 @@
 |Jinhwan|[ehtlfk](https://github.com/ehtlfk)|
 |Yechan Lim|[wonthechan](https://github.com/wonthechan)|
 |BrightJun|[bright-jun](https://github.com/bright-jun)|
-|YeonJu Hong | [yeonjudkwl](https://github.com/yeonjudkwl)|
+|YeonJu Hong |[yeonjudkwl](https://github.com/yeonjudkwl)|
 |Soomi Cho|[soomi1632](https://github.com/soomi1632)|
 |Taein Kim|[marrywill](https://github.com/marrywill)|
 |eun|[ee2e](https://github.com/ee2e)|
 |Siseong Nam|[Sissong](https://github.com/Sissong)|
-|Jungsoo Boo| [wjdtn7823](https://github.com/wjdtn7823)|
+|Jungsoo Boo|[wjdtn7823](https://github.com/wjdtn7823)|
 |Hyunjong1461|[Hyunjong1461](https://github.com/Hyunjong1461)|
 |Hyunjin Song|[hjsong333](https://github.com/hjsong333)|
 |Donghwi Kim|[wheeking](https://github.com/wheeking)|
