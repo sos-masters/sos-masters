@@ -475,4 +475,4 @@
 |Seungmin Ha|[Seung-minnn](https://github.com/Seung-minnn)|
 |Hoyeon Kim|[hoyeonkim795](https://github.com/hoyeonkim795)|
 |Hyoeun Lee|[hsage0103](https://github.com/hsage0103)|
-
+|Beomsu Park|[computerphilosopher](https://github.com/computerphilosopher)|
