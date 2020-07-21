@@ -477,4 +477,5 @@
 |Hyoeun Lee|[hsage0103](https://github.com/hsage0103)|
 |Beomsu Park|[computerphilosopher](https://github.com/computerphilosopher)|
 |ssilb4|[ssilb4](https://github.com/ssilb4)|
+|Yujin Kim|[yuzin9712](https://github.com/yuzin9712)|
 |Seonghyeon Cho|[sh-cho](https://github.com/sh-cho)|
