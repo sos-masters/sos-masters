@@ -484,3 +484,4 @@
 |Younghoon Byun|[byh1321](https://github.com/byh1321)|
 |Junyaup Kim|[yupjun](https://github.com/Yupjun)|
 |Ierae Yoon|[IeRae](https://github.com/IeRae)|
+|Youngjin Shin|[youngjinshin](https://github.com/youngjinshin)|
