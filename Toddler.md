@@ -494,4 +494,5 @@
 |Dongwon Paek|[underflow101](https://github.com/underflow101)|
 |Donghun Kim|[night9134](https://github.com/night9134)|
 |Gio Paik|[skyil7](https://github.com/skyil7)|
+|Harim Kang|[harimkang](https://github.com/harimkang)|
 |Inho Kim|[hummingbird-12](https://github.com/hummingbird-12)|
