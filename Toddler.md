@@ -482,3 +482,4 @@
 |Jeayeob Kim|[radic2510](https://github.com/radic2510)|
 |Minjun Kim|[mjaything](https://github.com/mjaything)|
 |Younghoon Byun|[byh1321](https://github.com/byh1321)|
+|Junyaup Kim|[yupjun](https://github.com/Yupjun)|
