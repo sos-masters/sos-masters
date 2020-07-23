@@ -486,3 +486,4 @@
 |Ierae Yoon|[IeRae](https://github.com/IeRae)|
 |Youngjin Shin|[youngjinshin](https://github.com/youngjinshin)|
 |Limm_jk|[limm-jk](https://github.com/Limm-jk)|
+|JinWook Shin|[kianms10310](https://github.com/kianms10310)|
