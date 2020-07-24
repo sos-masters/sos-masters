@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|Danny Toeun Kim|[kimdanny](https://github.com/kimdanny)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -497,3 +496,4 @@
 |Harim Kang|[harimkang](https://github.com/harimkang)|
 |Inho Kim|[hummingbird-12](https://github.com/hummingbird-12)|
 |Wansoo Kim|[marload](https://github.com/marload)|
+|Danny Toeun Kim|[kimdanny](https://github.com/kimdanny)|
