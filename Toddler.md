@@ -500,3 +500,4 @@
 |Hyeonwoo Park|[nono5546](https://github.com/nono5546)|
 |Haechan Lim|[Backchidacurry](https://github.com/Backchidacurry)|
 |Donghoon Kwak|[kionias](https://github.com/kionias)|
+|Covenant|[KoEonYack](https://github.com/koeonyack)|
