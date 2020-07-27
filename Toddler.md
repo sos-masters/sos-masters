@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|Kiwook|[zldlgl](https://github.com/zldlgl)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -502,3 +501,4 @@
 |Haechan Lim|[Backchidacurry](https://github.com/Backchidacurry)|
 |Donghoon Kwak|[kionias](https://github.com/kionias)|
 |Covenant|[KoEonYack](https://github.com/koeonyack)|
+|Kiwook|[zldlgl](https://github.com/zldlgl)|
