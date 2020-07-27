@@ -1,2 +1,2 @@
-|Nick Name|ID(Github Link Address)|
-|-|-|
+|Nick Name|ID(Github Link Address)|Total PR Count|
+|-|-|-|
