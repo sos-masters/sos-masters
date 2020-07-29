@@ -502,3 +502,4 @@
 |Donghoon Kwak|[kionias](https://github.com/kionias)|
 |Covenant|[KoEonYack](https://github.com/koeonyack)|
 |Kiwook|[zldlgl](https://github.com/zldlgl)|
+|DoHyeok Yang|[mizm](https://github.com/mizm)|
