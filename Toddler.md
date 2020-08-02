@@ -503,3 +503,4 @@
 |Covenant|[KoEonYack](https://github.com/koeonyack)|
 |Kiwook|[zldlgl](https://github.com/zldlgl)|
 |Bong K|[KimBongNam](https://github.com/KimBongNam)|
+|DoHyeok Yang|[mizm](https://github.com/mizm)|
