@@ -504,3 +504,4 @@
 |Bong K|[KimBongNam](https://github.com/KimBongNam)|
 |DoHyeok Yang|[mizm](https://github.com/mizm)|
 |jehunseo|[jehunseo](https://github.com/jehunseo)|
+|Chanmin Kim|[C17AN](https://github.com/C17AN)|
