@@ -511,4 +511,4 @@
 |hyeyoon Jung|[hysimok](https://github.com/hysimok)|
 |Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|
 |Snowapril|[Snowapril](https://github.com/Snowapril)|
-
+|Sujin Lee|[sujinlee0616](https://github.com/sujinlee0616)|
