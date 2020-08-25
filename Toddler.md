@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|SeungTae|[ryanKor](https://github.com/RyanKor)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -510,3 +509,8 @@
 |Jaeil Lee|[jilee0418](https://github.com/jilee0418)|
 |Myung-gwan Kim|[GreatLaboratory](https://github.com/GreatLaboratory)|
 |hyeyoon Jung|[hysimok](https://github.com/hysimok)|
+|Gi-In-Lee|[marco0332](https://github.com/marco0332)|
+|Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|
+|Snowapril|[Snowapril](https://github.com/Snowapril)|
+|Sujin Lee|[sujinlee0616](https://github.com/sujinlee0616)|
+|SeungTae|[ryanKor](https://github.com/RyanKor)|
