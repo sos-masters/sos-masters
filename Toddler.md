@@ -504,7 +504,6 @@
 |Bong K|[KimBongNam](https://github.com/KimBongNam)|
 |DoHyeok Yang|[mizm](https://github.com/mizm)|
 |jehunseo|[jehunseo](https://github.com/jehunseo)|
-|Chanmin Kim|[C17AN](https://github.com/C17AN)|
 |TaeIn Song|[stist1111](https://github.com/stist1111)|
 |Jaeil Lee|[jilee0418](https://github.com/jilee0418)|
 |Myung-gwan Kim|[GreatLaboratory](https://github.com/GreatLaboratory)|
