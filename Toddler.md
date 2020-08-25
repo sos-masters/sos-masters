@@ -509,6 +509,8 @@
 |Jaeil Lee|[jilee0418](https://github.com/jilee0418)|
 |Myung-gwan Kim|[GreatLaboratory](https://github.com/GreatLaboratory)|
 |hyeyoon Jung|[hysimok](https://github.com/hysimok)|
+|Gi-In-Lee|[marco0332](https://github.com/marco0332)|
 |Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|
 |Snowapril|[Snowapril](https://github.com/Snowapril)|
 |Sujin Lee|[sujinlee0616](https://github.com/sujinlee0616)|
+
