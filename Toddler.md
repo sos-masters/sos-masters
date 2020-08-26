@@ -515,3 +515,4 @@
 |LeeJinmyoung|[ML2jinmyoung](https://github.com/ML2jinmyoung)|
 |SeungTae|[ryanKor](https://github.com/RyanKor)|
 |Jihyo|[JIHYO-JEON](https://github.com/JIHYO-JEON)|
+|Areum Yang|[areumsheep](https://github.com/areumsheep)|
