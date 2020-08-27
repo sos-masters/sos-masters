@@ -516,3 +516,4 @@
 |SeungTae|[ryanKor](https://github.com/RyanKor)|
 |Jihyo|[JIHYO-JEON](https://github.com/JIHYO-JEON)|
 |Areum Yang|[areumsheep](https://github.com/areumsheep)|
+|kmin-jeong|[kmin-jeong](https://github.com/kmin-jeong)]
