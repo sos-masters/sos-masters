@@ -504,10 +504,18 @@
 |Bong K|[KimBongNam](https://github.com/KimBongNam)|
 |DoHyeok Yang|[mizm](https://github.com/mizm)|
 |jehunseo|[jehunseo](https://github.com/jehunseo)|
-|Chanmin Kim|[C17AN](https://github.com/C17AN)|
 |TaeIn Song|[stist1111](https://github.com/stist1111)|
 |Jaeil Lee|[jilee0418](https://github.com/jilee0418)|
 |Myung-gwan Kim|[GreatLaboratory](https://github.com/GreatLaboratory)|
 |hyeyoon Jung|[hysimok](https://github.com/hysimok)|
+<<<<<<< HEAD
+=======
+|Gi-In-Lee|[marco0332](https://github.com/marco0332)|
+|Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|
+>>>>>>> upstream/master
 |Snowapril|[Snowapril](https://github.com/Snowapril)|
-
+|Sujin Lee|[sujinlee0616](https://github.com/sujinlee0616)|
+|LeeJinmyoung|[ML2jinmyoung](https://github.com/ML2jinmyoung)|
+|SeungTae|[ryanKor](https://github.com/RyanKor)|
+|Jihyo|[JIHYO-JEON](https://github.com/JIHYO-JEON)|
+|Areum Yang|[areumsheep](https://github.com/areumsheep)|
