@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|GyungChang|[gyungchang](https://github.com/gyungchang)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -517,3 +516,4 @@
 |SeungTae|[ryanKor](https://github.com/RyanKor)|
 |Jihyo|[JIHYO-JEON](https://github.com/JIHYO-JEON)|
 |Areum Yang|[areumsheep](https://github.com/areumsheep)|
+|GyungChang|[gyungchang](https://github.com/gyungchang)|
