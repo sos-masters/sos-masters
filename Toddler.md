@@ -517,3 +517,4 @@
 |Areum Yang|[areumsheep](https://github.com/areumsheep)|
 |Yunseon Choi|[OMEGA-Y](https://github.com/OMEGA-Y)
 |kmin-jeong|[kmin-jeong](https://github.com/kmin-jeong)]
+|GyungChang|[gyungchang](https://github.com/gyungchang)|
