@@ -515,6 +515,5 @@
 |SeungTae|[ryanKor](https://github.com/RyanKor)|
 |Jihyo|[JIHYO-JEON](https://github.com/JIHYO-JEON)|
 |Areum Yang|[areumsheep](https://github.com/areumsheep)|
-|Yunseon Choi|[OMEGA-Y](https://github.com/OMEGA-Y)
 |kmin-jeong|[kmin-jeong](https://github.com/kmin-jeong)]
 |GyungChang|[gyungchang](https://github.com/gyungchang)|
