@@ -1,4 +1,7 @@
  
+ 
+ [![Gitter](https://badges.gitter.im/sos-masters/community.svg)](https://gitter.im/sos-masters/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+ 
  **[마스터즈 프로그램 홈페이지](https://opensource.samsung.com/community/master) 가이드 참고**
  
 - **sos-master** (Korean) 
