@@ -17,6 +17,9 @@
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] fix: Fix quant_param|[URL](https://github.com/Samsung/ONE/commit/3151f2235efc013f9557329838f8d198b7e556ff)|
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Tanh_U8_000|[URL](https://github.com/Samsung/ONE/commit/f943b320908b398dd5a4a1691b4f425ee3ea138a)|
 |[ONE](https://github.com/Samsung/ONE)|[luci] feat: Add U8 ops to test.lst|[URL](https://github.com/Samsung/ONE/commit/6874100a5e32befb9c459c0aca62d836fa088655)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] feat: Add U8 Kernel for LogSoftmax Kernel|[URL](https://github.com/Samsung/ONE/commit/6c5706a155ff1c204abb7c0b0593b988ecd612c7)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter]feat: Allow U8 LogSoftmax kernel for KernelBuilder|[URL](https://github.com/Samsung/ONE/commit/59d800b9c95a9fc81f2904cf3418befaaa7fb676)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add LogSoftmax_U8_000|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
 
 
 # My Solve Issue List
@@ -32,3 +35,6 @@
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Fix Tanh Kernel, Add Tanh for allowing tanh U8 ops|[#3621](https://github.com/Samsung/ONE/issues/3621)|[URL](https://github.com/Samsung/ONE/commit/9177a02315ef2f64ca74408a9493f34d793d9773)|
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: TANH|[#3592](https://github.com/Samsung/ONE/issues/3592)|[URL](https://github.com/Samsung/ONE/commit/f943b320908b398dd5a4a1691b4f425ee3ea138a)|
 |[ONE](https://github.com/Samsung/ONE)|[luci] Add Tanh/ResizeBilinear/SpaceToDepth for U8 test.lst|[#3591](https://github.com/Samsung/ONE/issues/3591)|[URL](https://github.com/Samsung/ONE/commit/6874100a5e32befb9c459c0aca62d836fa088655)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add UINT8 for LogSoftmax kernel|[#3833](https://github.com/Samsung/ONE/issues/3833)|[URL](https://github.com/Samsung/ONE/commit/6c5706a155ff1c204abb7c0b0593b988ecd612c7)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Allow LogSoftmax ops for KernelBuilder|[#4097](https://github.com/Samsung/ONE/issues/4097)|[URL](https://github.com/Samsung/ONE/commit/59d800b9c95a9fc81f2904cf3418befaaa7fb676)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LOGSOFTMAX|[#4119](https://github.com/Samsung/ONE/issues/4119)|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
