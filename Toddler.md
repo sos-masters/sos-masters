@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|Samuel Bouye Zamble|[zamblebi](https://github.com/zamblebi)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -521,3 +520,4 @@
 |WonJoongLee|[WonJoongLee](https://github.com/WonJoongLee)|
 |wwhurin|[wwhurin](https://github.com/wwhurin)|
 |changbokLee|[changbokLee](https://github.com/changbokLee)|
+|Samuel Bouye Zamble|[zamblebi](https://github.com/zamblebi)|
