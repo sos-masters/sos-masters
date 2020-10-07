@@ -4,3 +4,4 @@
 |Chanmin Kim|[C17AN](https://github.com/C17AN)|5|
 |Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|6|
 |Yunseon Choi|[OMEGA-Y](https://github.com/OMEGA-Y)|7|
+|SuYoung Kim|[SwimingKim](https://github.com/SwimingKim)|5|
