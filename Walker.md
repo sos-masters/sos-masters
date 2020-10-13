@@ -5,3 +5,4 @@
 |Sowon Kim|[sowon-dev](https://github.com/sowon-dev)|6|
 |Yunseon Choi|[OMEGA-Y](https://github.com/OMEGA-Y)|7|
 |SuYoung Kim|[SwimingKim](https://github.com/SwimingKim)|5|
+|Peace Lee|[iipeace](https://github.com/iipeace)|22|
