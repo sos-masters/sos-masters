@@ -12,7 +12,7 @@
 |[Guider](https://github.com/iipeace/guider)|btrace: Add CMD field for getret command|[URL](https://github.com/iipeace/guider/pull/244)|
 |[Guider](https://github.com/iipeace/guider)|btrace: Fix various command bugs|[URL](https://github.com/iipeace/guider/pull/243)|
 |[Guider](https://github.com/iipeace/guider)|doc: Update README.md|[URL](https://github.com/iipeace/guider/pull/242)|
-|[Guider](https://github.com/iipeace/guider)|feat: Change state values ​​and resources to suit deep purple theme|[URL](https://github.com/iipeace/guider/pull/241)|
+|[Guider](https://github.com/iipeace/guider)|feat: Change state values and resources to suit deep purple theme|[URL](https://github.com/iipeace/guider/pull/241)|
 |[Guider](https://github.com/iipeace/guider)|fix: Fixed an issue where image files were not committed in admin web|[URL](https://github.com/iipeace/guider/pull/240)|
 |[Guider](https://github.com/iipeace/guider)|docs: LICENSE document addition and various text changes|[URL](https://github.com/iipeace/guider/pull/239)|
 |[Guider](https://github.com/iipeace/guider)|strace: Add list option|[URL](https://github.com/iipeace/guider/pull/237)|
