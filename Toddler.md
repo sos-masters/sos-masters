@@ -524,5 +524,3 @@
 |Harheem Kim|[harheem](https://github.com/harheem)|
 |Peter J|[neont21](https://github.com/neont21)|
 |YEWON|[yewonhyun](https://github.com/yewonhyun)|
-|Peace Lee|[iipeace](https://github.com/iipeace)|
-
