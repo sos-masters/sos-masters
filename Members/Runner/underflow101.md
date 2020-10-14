@@ -21,6 +21,7 @@
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] feat: Allow U8 LogSoftmax kernel for KernelBuilder|[URL](https://github.com/Samsung/ONE/commit/59d800b9c95a9fc81f2904cf3418befaaa7fb676)|
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add LogSoftmax_U8_000|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Maximum kernel|[URL](https://github.com/Samsung/ONE/commit/5376907f0bdeccc0ca3a79dccd1b8b2372c430d7)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Minimum Kernel|[URL](https://github.com/Samsung/ONE/commit/928e09fe93668316da8f756b0bfe30a2d27b486a)|
 
 
 # My Solve Issue List
@@ -40,3 +41,4 @@
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Allow LogSoftmax ops for KernelBuilder|[#4097](https://github.com/Samsung/ONE/issues/4097)|[URL](https://github.com/Samsung/ONE/commit/59d800b9c95a9fc81f2904cf3418befaaa7fb676)|
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LOGSOFTMAX|[#4119](https://github.com/Samsung/ONE/issues/4119)|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Maximum Kernel|[#4135](https://github.com/Samsung/ONE/issues/4135)|[URL](https://github.com/Samsung/ONE/commit/5376907f0bdeccc0ca3a79dccd1b8b2372c430d7)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Minimum Kernel|[#4599](https://github.com/Samsung/ONE/issues/4599)|[URL](https://github.com/Samsung/ONE/commit/928e09fe93668316da8f756b0bfe30a2d27b486a)|
