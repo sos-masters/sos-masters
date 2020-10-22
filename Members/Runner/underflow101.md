@@ -22,6 +22,16 @@
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add LogSoftmax_U8_000|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Maximum kernel|[URL](https://github.com/Samsung/ONE/commit/5376907f0bdeccc0ca3a79dccd1b8b2372c430d7)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Minimum Kernel|[URL](https://github.com/Samsung/ONE/commit/928e09fe93668316da8f756b0bfe30a2d27b486a)|
+|[ONE](https://github.com/Samsung/ONE)|[luci] Allow U8 op for validate_minmax|[URL](https://github.com/Samsung/ONE/commit/0020355b86aa7018797d359f3f29634dff556ff4)|
+|[ONE](https://github.com/Samsung/ONE)|[common-artifacts] Allow BOOL DataType for TestDataGenerator|[URL](https://github.com/Samsung/ONE/commit/85285ba2b024f0751d92355bd355a7594640a9bf)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Greater_U8_000|[URL](https://github.com/Samsung/ONE/commit/b5115c7ed3de4fc3ffd40aeede8946396f9a45e3)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Maximum_U8_000|[URL](https://github.com/Samsung/ONE/commit/69edd545b6b8a24d259629107002d0a51fcc8a28)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Minimum_U8_000|[URL](https://github.com/Samsung/ONE/commit/17d171e0704d1b641b78a06f2e45f4e6155a080d)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Equal_U8_000|[URL](https://github.com/Samsung/ONE/commit/0a3d73c38608dbe997222243023150b05a02132e)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Less_U8_000|[URL](https://github.com/Samsung/ONE/commit/9fa38fa2a0c5fb8cda6245f1c151388b4d330ef6)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add LessEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/2a86b461256aea38fd16dc1fb5a3ad624348a0d7)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add GreaterEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/2bd95e229a1104ca9c7895ccdd32ce7ffcc81894)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add NotEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
 
 
 # My Solve Issue List
@@ -42,3 +52,13 @@
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LOGSOFTMAX|[#4119](https://github.com/Samsung/ONE/issues/4119)|[URL](https://github.com/Samsung/ONE/commit/0cc8ceb5b65fef0bf33bc19d1adc55dd9f53de05)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Maximum Kernel|[#4135](https://github.com/Samsung/ONE/issues/4135)|[URL](https://github.com/Samsung/ONE/commit/5376907f0bdeccc0ca3a79dccd1b8b2372c430d7)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Minimum Kernel|[#4599](https://github.com/Samsung/ONE/issues/4599)|[URL](https://github.com/Samsung/ONE/commit/928e09fe93668316da8f756b0bfe30a2d27b486a)|
+|[ONE](https://github.com/Samsung/ONE)|[luci] Add support U8 ops for validate_minmax()|[#4694](https://github.com/Samsung/ONE/issues/4694)|[URL](https://github.com/Samsung/ONE/commit/0020355b86aa7018797d359f3f29634dff556ff4)|
+|[ONE](https://github.com/Samsung/ONE)|[common-artifacts] Add BOOL DataType support for TestDataGenerator|[#4696](https://github.com/Samsung/ONE/issues/4696)|[URL](https://github.com/Samsung/ONE/commit/85285ba2b024f0751d92355bd355a7594640a9bf)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: GREATER|[#4713](https://github.com/Samsung/ONE/issues/4713)|[URL](https://github.com/Samsung/ONE/commit/b5115c7ed3de4fc3ffd40aeede8946396f9a45e3)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: MAXIMUM|[#4703](https://github.com/Samsung/ONE/issues/4703)|[URL](https://github.com/Samsung/ONE/commit/69edd545b6b8a24d259629107002d0a51fcc8a28)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: MINIMUM|[#4706](https://github.com/Samsung/ONE/issues/4706)|[URL](https://github.com/Samsung/ONE/commit/17d171e0704d1b641b78a06f2e45f4e6155a080d)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: EQUAL|[#4709](https://github.com/Samsung/ONE/issues/4709)|[URL](https://github.com/Samsung/ONE/commit/0a3d73c38608dbe997222243023150b05a02132e)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LESS|[#4711](https://github.com/Samsung/ONE/issues/4711)|[URL](https://github.com/Samsung/ONE/commit/9fa38fa2a0c5fb8cda6245f1c151388b4d330ef6)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LESSEQUAL|[#4727](https://github.com/Samsung/ONE/issues/4727)|[URL](https://github.com/Samsung/ONE/commit/2a86b461256aea38fd16dc1fb5a3ad624348a0d7)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: GREATEREQUAL|[#4729](https://github.com/Samsung/ONE/issues/4729)|[URL](https://github.com/Samsung/ONE/commit/2bd95e229a1104ca9c7895ccdd32ce7ffcc81894)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: NOTEQUAL|[#4731](https://github.com/Samsung/ONE/issues/4731)|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
