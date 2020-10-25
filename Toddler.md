@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+|Jarid de la Rambelje|[theJARiD85](https://github.com/theJARiD85)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
