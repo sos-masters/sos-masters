@@ -525,3 +525,4 @@
 |Peter J|[neont21](https://github.com/neont21)|
 |YEWON|[yewonhyun](https://github.com/yewonhyun)|
 |Kwangho Kim|[FKgk](https://github.com/FKgk)|
+|Jarid de la Rambelje|[theJARiD85](https://github.com/theJARiD85)|
