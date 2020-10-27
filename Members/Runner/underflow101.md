@@ -32,6 +32,8 @@
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add LessEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/2a86b461256aea38fd16dc1fb5a3ad624348a0d7)|
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add GreaterEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/2bd95e229a1104ca9c7895ccdd32ce7ffcc81894)|
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add NotEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add NEG tc for Pow kernel|[URL](https://github.com/Samsung/ONE/commit/088a7a443166361da771efd589d9cd694790ed61)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add LogicalAnd Kernel|[URL](https://github.com/Samsung/ONE/commit/cc9ca8485b02315f1476b1dab17407e64cceae0a)|
 
 
 # My Solve Issue List
@@ -62,3 +64,5 @@
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: LESSEQUAL|[#4727](https://github.com/Samsung/ONE/issues/4727)|[URL](https://github.com/Samsung/ONE/commit/2a86b461256aea38fd16dc1fb5a3ad624348a0d7)|
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: GREATEREQUAL|[#4729](https://github.com/Samsung/ONE/issues/4729)|[URL](https://github.com/Samsung/ONE/commit/2bd95e229a1104ca9c7895ccdd32ce7ffcc81894)|
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: NOTEQUAL|[#4731](https://github.com/Samsung/ONE/issues/4731)|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add more NEG tc for pow kernel|[#4762](https://github.com/Samsung/ONE/issues/4762)|[URL](https://github.com/Samsung/ONE/commit/088a7a443166361da771efd589d9cd694790ed61)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add LogicalAnd Kernel|[#4733](https://github.com/Samsung/ONE/issues/4733)|[URL](https://github.com/Samsung/ONE/commit/cc9ca8485b02315f1476b1dab17407e64cceae0a)|
