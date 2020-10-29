@@ -34,6 +34,9 @@
 |[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add NotEqual_U8_000|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add NEG tc for Pow kernel|[URL](https://github.com/Samsung/ONE/commit/088a7a443166361da771efd589d9cd694790ed61)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add LogicalAnd Kernel|[URL](https://github.com/Samsung/ONE/commit/cc9ca8485b02315f1476b1dab17407e64cceae0a)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Exp Kernel|[URL](https://github.com/Samsung/ONE/commit/a9617d8e424b813a1eadc87bc9130471a65a2d05)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add NEG tc for Tanh kernel|[URL](https://github.com/Samsung/ONE/commit/c1416c51b2723ff0f060ac567a5def7079906bd6)|
+|[ONE](https://github.com/Samsung/ONE)|[res/TensorFlowLiteRecipes] Add Transpose_U8_000|[URL](https://github.com/Samsung/ONE/commit/32f06c0ffdf600b02a1d0f8c428b510f06a92f5a)|
 
 
 # My Solve Issue List
@@ -66,3 +69,6 @@
 |[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: NOTEQUAL|[#4731](https://github.com/Samsung/ONE/issues/4731)|[URL](https://github.com/Samsung/ONE/commit/a0b5e3fa85d7140f8c36ba99687e313298a05ade)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add more NEG tc for pow kernel|[#4762](https://github.com/Samsung/ONE/issues/4762)|[URL](https://github.com/Samsung/ONE/commit/088a7a443166361da771efd589d9cd694790ed61)|
 |[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add LogicalAnd Kernel|[#4733](https://github.com/Samsung/ONE/issues/4733)|[URL](https://github.com/Samsung/ONE/commit/cc9ca8485b02315f1476b1dab17407e64cceae0a)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add Exp Kernel|[#4661](https://github.com/Samsung/ONE/issues/4661)|[URL](https://github.com/Samsung/ONE/commit/a9617d8e424b813a1eadc87bc9130471a65a2d05)|
+|[ONE](https://github.com/Samsung/ONE)|[luci-interpreter] Add NEG tc for Tanh kernel|[#4766](https://github.com/Samsung/ONE/issues/4766)|[URL](https://github.com/Samsung/ONE/commit/c1416c51b2723ff0f060ac567a5def7079906bd6)|
+|[ONE](https://github.com/Samsung/ONE)|[res] Add U8 recipe: TRANSPOSE|[#4836](https://github.com/Samsung/ONE/issues/4836)|[URL](https://github.com/Samsung/ONE/commit/32f06c0ffdf600b02a1d0f8c428b510f06a92f5a)|
