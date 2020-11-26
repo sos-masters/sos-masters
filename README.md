@@ -29,5 +29,25 @@ SOS-MASTERS Facebook Group : <b>[Facebook Link](https://www.facebook.com/groups/
   >- Master.md : Issue resolution  30 more
  
   >- Members : Master Members activities
- 
- 
+
+# List of Opensource Projects in SOS Masters
+
+|Link|Repo Maintainer|
+|-|-|
+|[ThorVG](https://github.com/Samsung/thorvg)|[Samsung](https://github.com/Samsung)|
+|[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)|[javascript-tutorial](https://github.com/javascript-tutorial)|
+|[swc](https://github.com/swc-project/swc)|[swc-project](https://github.com/swc-project)|
+|[ONE](https://github.com/samsung/one)|[Samsung](https://github.com/Samsung)|
+|[Mercy-TLdroid](https://github.com/mercy-project/TLdroid)|[mercy-project](https://github.com/mercy-project)|
+|[Mercy-korean-text](https://github.com/mercy-project/korean-text-sentiment-analysis)|[mercy-project](https://github.com/mercy-project)|
+|[Mercy-korean-audio](https://github.com/mercy-project/korean-audio-sentiment-analysis)|[mercy-project](https://github.com/mercy-project)|
+|[Mercy-korean-image](https://github.com/mercy-project/korean-image-sentiment-analysis)|[mercy-project](https://github.com/mercy-project)|
+|[Guider](https://github.com/iipeace/guider)|[iipeace](https://github.com/iipeace)|
+|[NNtrainer](https://github.com/nnstreamer/nntrainer)|[NNStreamer](https://github.com/nnstreamer)|
+|[NNStreamer](https://github.com/nnstreamer/nnstreamer)|[NNStreamer](https://github.com/nnstreamer)|
+|[rlottie](https://github.com/Samsung/rlottie)|[Samsung](https://github.com/Samsung)|
+|[Tizen.TV.UIControls](https://github.com/Samsung/Tizen.TV.UIControls)|[Samsung](https://github.com/Samsung)|
+|[TizenFX](https://github.com/Samsung/TizenFX)|[Samsung](https://github.com/Samsung)|
+|[TAU](https://github.com/Samsung/TAU)|[Samsung](https://github.com/Samsung)|
+|[Tizen-CSharp-Samples](https://github.com/Samsung/Tizen-CSharp-Samples)|[Samsung](https://github.com/Samsung)|
+
