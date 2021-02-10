@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+|kruskal|[General-code](https://github.com/General-code)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
