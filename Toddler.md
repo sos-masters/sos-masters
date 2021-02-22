@@ -532,6 +532,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Yeeun Choi|[skyyy6](https://github.com/skyyy6/)| 
 |Sanghun Shin|[sw0817](https://github.com/sw0817/)| 
 |eunsu|[eunsu27](https://github.com/eunsu27)|
 |Ahyeon Gil|[ahyeonlog](https://github.com/ahyeonlog)|
