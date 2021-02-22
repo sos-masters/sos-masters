@@ -201,6 +201,7 @@
 |Youngwook Go|[gyw8526](https://github.com/gyw8526)|
 |hongbboro|[jong0717](https://github.com/jong0717)|
 |DongGyu Lee|[Marco](https://github.com/DonggyuLee92)|
+|Rekalux|[Rekalux](https://github.com/Rekalux)|
 |Yeonuk Jeong|[JeongYeonUk](https://github.com/JeongYeonUk)|
 |Infinit Apple|[infinitapple](https://github.com/infinitapple)|
 |Jaemin Oh|[jamin2682](https://github.com/jaemin2682)|
