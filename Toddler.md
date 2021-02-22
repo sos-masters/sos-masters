@@ -532,6 +532,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|BonHyuck Koo|[qhsgur0126](https://github.com/BonHyuck)|
 |Melon Cha|[meloncha](https://github.com/meloncha)|
 |Gyutae Baek|[QT-HH](https://github.com/QT-HH/)| 
 |Jaehee Han|[HahJaehee](https://github.com/HanJaehee/)|
