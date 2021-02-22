@@ -532,6 +532,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Sujin Hyeon|[h971114](https://github.com/h971114/)| 
 |SSAFYKIM|[kimheesung](https://github.com/kimheesung)|
 |Dayun Kim|[daaaaaayoon](https://github.com/daaaaaayoon/)| 
 |Jihwan Jeong|[kkiu1756](https://github.com/kkiu1756/)| 
