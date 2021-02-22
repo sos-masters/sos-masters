@@ -531,7 +531,8 @@
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
-|Yumin Heo|[yumin97](https://github.com/yumin97/)|
+|Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Hyemin Kim|[alsdk3586](https://github.com/alsdk3586)|
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
