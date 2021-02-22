@@ -533,3 +533,5 @@
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
 |Jinpyo Hong|[hojp7874](https://github.com/hojp7874/)| 
+|sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
+|Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
