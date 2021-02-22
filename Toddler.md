@@ -541,5 +541,5 @@
 |Hyemin Kim|[alsdk3586](https://github.com/alsdk3586)|
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
-Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
 |gingersnaps|[dbdtrapper](https://github.com/dbdtrapper)|
