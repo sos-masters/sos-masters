@@ -533,3 +533,10 @@
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
 |Dayun Kim|[daaaaaayoon](https://github.com/daaaaaayoon/)| 
+|Jihwan Jeong|[kkiu1756](https://github.com/kkiu1756/)| 
+|Jiyoung Lee|[itzjamie96](https://github.com/itzjamie96)
+|Haneul Kim|[Kim-Ha-neul](https://github.com/Kim-Ha-neul/)| 
+|Hyemin Kim|[alsdk3586](https://github.com/alsdk3586)|
+|Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
+|sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
+|Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
