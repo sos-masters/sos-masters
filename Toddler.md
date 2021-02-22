@@ -532,4 +532,4 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
-|Eunsun Choi|[esun1903](https://github.com/esun1903)| 
+|Eunsun Choi|[esun1903](https://github.com/esun1903)|  
