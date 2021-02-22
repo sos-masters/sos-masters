@@ -534,3 +534,4 @@
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|GeonHee Ryu|[RGunny](https://github.com/rgunny)|
