@@ -530,7 +530,7 @@
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
-|Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Yumin Heo|[yumin97](https://github.com/yumin97/)|
 |Chaewon Kang|[chaewon-k](https://github.com/chaewon-k/)|
 |Damin Kim|[damingu](https://github.com/damingu/)| 
 |Taemin Ha|[Taemin11](https://github.com/Taemin11/)| 
@@ -627,3 +627,4 @@
 |brotherspear1994|[brotherspear106@gmail.com](https://github.com/brotherspear1994)|
 |SungKook Cho|[likelionSungGuk](https://github.com/likelionSungGuk/)| 
 |Sumin Yun|[sumin2791](https://github.com/sumin2791/)| 
+|Goo|[KangGooWeon](https://github.com/KangGooWeon/)|
