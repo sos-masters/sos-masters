@@ -577,3 +577,4 @@
 |kruskal|[General-code](https://github.com/General-code)|
 |Nahyun Choi|[feb4th](https://github.com/feb4th)|
 |JuneYoung Jung|[dkwjdi](https://github.com/dkwjdi/)|
+| Seungyun Jee | [romanticist](https://github.com/romanticist)|
