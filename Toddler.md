@@ -602,3 +602,4 @@
 |Sebeen Lee|[SayBeen](https://github.com/SayBeen/)|
 |Taehoon Noh|[thnoh1212](https://github.com/thnoh1212/)|
 |Geonwoo Lee|[heesung84](https://github.com/geonwoo0223)|
+|Hongdeok Lee|[doggydeok2](https://github.com/doggydeok2/)|
