@@ -626,3 +626,4 @@
 |Hyeji Jeong|[hyeji6138](https://github.com/hyeji6138/)| 
 |brotherspear1994|[brotherspear106@gmail.com](https://github.com/brotherspear1994)|
 |SungKook Cho|[likelionSungGuk](https://github.com/likelionSungGuk/)| 
+|Sumin Yun|[sumin2791](https://github.com/sumin2791/)| 
