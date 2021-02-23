@@ -640,3 +640,4 @@
 |Kim Kyungyeon|[ghwoer12](https://github.com/ghwoer12)|
 |AgFe|[dmscjf21](https://github.com/dmscjf21/)| 
 |Nayoung Lee|[bokiri409](https://github.com/bokiri409)|
+|kyusoo Choi|[qsoo](https://github.com/qsoo)|
