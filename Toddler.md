@@ -617,3 +617,4 @@
 |Jihee Hong|[vegavenus95](https://github.com/vegavenus95/)|
 |Yongseok Lee|[good-days](https://github.com/good-days/)| 
 |Jinwoo Yu|[phoenix9373](https://github.com/phoenix9373)| 
+|Sungjin Kim|[tjdwls3469](https://github.com/tjdwls3469)| 
