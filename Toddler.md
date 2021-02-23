@@ -582,6 +582,7 @@
 |Hyejin Lee|[melthleeth](https://github.com/melthleeth)|
 |Jeonghoon Joo|[Jeonghoonx94](https://github.com/Jeonghoonx94/)|
 |Jay Lee|[dongjay00](https://github.com/dongjay00/)|
+|Ilkgu Jeong|[jig6795](https://github.com/jig6795/)|
 |Suemin Jang|[zngsm](https://github.com/zngsm)|
 |Jonghui|[hie6953](https://github.com/hie6953)|
 |Hyeondoi|[OHHYEONJEONG](https://github.com/OHHYEONJEONG/)| 
