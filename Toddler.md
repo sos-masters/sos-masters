@@ -629,3 +629,4 @@
 |Sumin Yun|[sumin2791](https://github.com/sumin2791/)| 
 |Goo|[KangGooWeon](https://github.com/KangGooWeon/)|
 |Nojeong Park|[NoJeong](https://github.com/NoJeong/)| 
+|Hyojin Kim|[dev.hyojinkim](https://github.com/devhyojin)|
