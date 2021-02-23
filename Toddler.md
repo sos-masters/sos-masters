@@ -620,3 +620,4 @@
 |Sungjin Kim|[tjdwls3469](https://github.com/tjdwls3469)| 
 |YouKnowIMean|[hyemz](https://github.com/hyemz)|
 |Yoonvin Kim|[vreez](https://github.com/vreez)|
+|Seul Lee|[seul0308](https://github.com/seul0308/)
