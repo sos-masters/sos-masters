@@ -572,3 +572,4 @@
 |powerticket|[powerticket](https://github.com/powerticket/)|
 |Jinyoung Han|[jinyoungHan](https://github.com/jinyoungHan)|
 |Sungho Park|[solser12](https://github.com/solser12/)|
+|Sunghoon Cho|[JoChoSunghoon](https://github.com/JoChoSunghoon)|
