@@ -612,3 +612,4 @@
 |nuyadkrap|[dayuni](https://github.com/dayuni/)|
 |Seoyeon Park|[park-seoyeon](https://github.com/park-seoyeon)|
 |Minkyung Kim|[minkyoe](https://github.com/minkyoe)|
+|Junhee Lee|[i-cluster](https://github.com/i-cluster/)|
