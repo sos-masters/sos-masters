@@ -644,3 +644,4 @@
 |ByeongGyoo kim|[BangGyoo](https://github.com/BangGyoo/)|
 |Jeong Jun Hyeon|[weekyear](https://github.com/weekyear/)| 
 |Sieun Jeong|[sieun-iris](https://github.com/sieun-iris)| 
+|Dogyun Myeong|[mingddo](https://github.com/mingddo)
