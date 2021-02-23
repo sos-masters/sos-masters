@@ -573,3 +573,4 @@
 |Jinyoung Han|[jinyoungHan](https://github.com/jinyoungHan)|
 |Sungho Park|[solser12](https://github.com/solser12/)|
 |Sunghoon Cho|[JoChoSunghoon](https://github.com/JoChoSunghoon)|
+|ShinDajeong|[ShinDajeong](https://github.com/ShinDajeong/)|
