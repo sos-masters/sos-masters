@@ -581,3 +581,4 @@
 |Donghee Lee|[Donghee-L](https://github.com/Donghee-L)|
 |Hyejin Lee|[melthleeth](https://github.com/melthleeth)|
 |Jeonghoon Joo|[Jeonghoonx94](https://github.com/Jeonghoonx94/)|
+|Jay Lee|[dongjay00](https://github.com/dongjay00/)|
