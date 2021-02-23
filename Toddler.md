@@ -614,3 +614,4 @@
 |Minkyung Kim|[minkyoe](https://github.com/minkyoe)|
 |Junhee Lee|[i-cluster](https://github.com/i-cluster/)|
 |Seoyoun Ji|[seoyounji](https://github.com/seoyounji)|
+|Jihee Hong|[vegavenus95](https://github.com/vegavenus95/)|
