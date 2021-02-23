@@ -605,3 +605,4 @@
 |Hongdeok Lee|[doggydeok2](https://github.com/doggydeok2/)|
 |salee|[salee1023](https://github.com/salee1023/)| 
 |Hyeonjun Nam|[applevalley](https://github.com/applevalley/)|
+|SeungMo Jea|[winmo95](https://github.com/winmo95/)|
