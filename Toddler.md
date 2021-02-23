@@ -610,3 +610,4 @@
 |Rekalux|[Rekalux](https://github.com/Rekalux)|
 |Young|[juneyoung-jo](https://github.com/juneyoung-jo/)| 
 |nuyadkrap|[dayuni](https://github.com/dayuni/)|
+|Seoyeon Park|[park-seoyeon](https://github.com/park-seoyeon)|
