@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|kruskal|[General-code](https://github.com/General-code)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -531,7 +530,7 @@
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
-|Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Yumin Heo|[yumin97](https://github.com/yumin97/)|
 |Chaewon Kang|[chaewon-k](https://github.com/chaewon-k/)|
 |Damin Kim|[damingu](https://github.com/damingu/)| 
 |Taemin Ha|[Taemin11](https://github.com/Taemin11/)| 
@@ -574,3 +573,5 @@
 |Sungho Park|[solser12](https://github.com/solser12/)|
 |Sunghoon Cho|[JoChoSunghoon](https://github.com/JoChoSunghoon)|
 |ShinDajeong|[ShinDajeong](https://github.com/ShinDajeong/)|
+|Sunseok Kim|[channeli1194](https://github.com/channeli1194/)|
+|kruskal|[General-code](https://github.com/General-code)|
