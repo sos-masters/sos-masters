@@ -630,3 +630,4 @@
 |Goo|[KangGooWeon](https://github.com/KangGooWeon/)|
 |Nojeong Park|[NoJeong](https://github.com/NoJeong/)| 
 |Hyojin Kim|[dev.hyojinkim](https://github.com/devhyojin)|
+|Jinpyo Hong|[hojp7874](https://github.com/hojp7874/)| 
