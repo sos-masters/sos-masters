@@ -587,3 +587,4 @@
 |Hyeondoi|[OHHYEONJEONG](https://github.com/OHHYEONJEONG/)| 
 |SengYup Han|[hsy118](https://github.com/hsy118/)|
 |Hobin Im|[elwlahd555](https://github.com/elwlahd555/)|
+|Jisoo Kim|[coffeii](https://github.com/coffeii/)| 
