@@ -590,3 +590,4 @@
 |Jisoo Kim|[coffeii](https://github.com/coffeii/)| 
 |Eunji Yi|[EunjiYi](https://github.com/EunjiYi)|
 |Chung Hyeon|[chyn00](https://github.com/chyn00/)|
+|Jiheon|[jihoneyy](https://github.com/jihoneyy/)|
