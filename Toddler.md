@@ -625,3 +625,4 @@
 |Junghyun-Baek|[junghyun100](https://github.com/junghyun100)|
 |Hyeji Jeong|[hyeji6138](https://github.com/hyeji6138/)| 
 |brotherspear1994|[brotherspear106@gmail.com](https://github.com/brotherspear1994)|
+|SungKook Cho|[likelionSungGuk](https://github.com/likelionSungGuk/)| 
