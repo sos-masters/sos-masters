@@ -530,7 +530,7 @@
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
-|Yumin Heo|[yumin97](https://github.com/yumin97/)|
+|Yumin Heo|[yumin97](https://github.com/yumin97/)| 
 |Chaewon Kang|[chaewon-k](https://github.com/chaewon-k/)|
 |Damin Kim|[damingu](https://github.com/damingu/)| 
 |Taemin Ha|[Taemin11](https://github.com/Taemin11/)| 
@@ -575,3 +575,4 @@
 |ShinDajeong|[ShinDajeong](https://github.com/ShinDajeong/)|
 |Sunseok Kim|[channeli1194](https://github.com/channeli1194/)|
 |kruskal|[General-code](https://github.com/General-code)|
+|Nahyun Choi|[feb4th](https://github.com/feb4th)|
