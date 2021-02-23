@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|kruskal|[General-code](https://github.com/General-code)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -532,4 +531,48 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
-|Nahyun Choi|[feb4th](https://github.com/feb4th)| 
+|Chaewon Kang|[chaewon-k](https://github.com/chaewon-k/)|
+|Damin Kim|[damingu](https://github.com/damingu/)| 
+|Taemin Ha|[Taemin11](https://github.com/Taemin11/)| 
+|Nari Kim|[rosenari](https://github.com/rosenari)|
+|Euntaek Lee|[rudus1012](https://github.com/rudus1012/)|
+|Donggeol Kim|[ehd6481](https://github.com/ehd6481/)|
+|Soobin Park|[devtitch](https://github.com/devtitch)|
+|Yumin Heo|[yumin97](https://github.com/yumin97/)|
+|Daeheon Lee|[daeheon-ssafy](https://github.com/daeheon-ssafy/)|
+|Yeonju Lee|[LynnYeonjuLee](https://github.com/LynnYeonjuLee/)| 
+|jaehyunup|[jaehyun-up](https://github.com/jaehyunup)|
+|Sumin Lee|[sumin416](https://github.com/sumin416/)| 
+|Ko Yuchang|[go95305](https://github.com/go95305/)| 
+|SoJeong Kim|[itoggi03](https://github.com/itoggi03/)|
+|BonHyuck Koo|[qhsgur0126](https://github.com/BonHyuck)|
+|Melon Cha|[meloncha](https://github.com/meloncha)|
+|Gyutae Baek|[QT-HH](https://github.com/QT-HH/)| 
+|Jaehee Han|[HahJaehee](https://github.com/HanJaehee/)|
+|Dasol Park|[dryans1](https://github.com/dryans1)| 
+|Giho Lee|[GIHOLEE](https://github.com/GIHOLEE)|
+|JuneHyung Joe|[cjh951114](https://github.com/JuneHyung/)| 
+|Yeeun Choi|[skyyy6](https://github.com/skyyy6/)| 
+|Sanghun Shin|[sw0817](https://github.com/sw0817/)| 
+|eunsu|[eunsu27](https://github.com/eunsu27)|
+|Ahyeon Gil|[ahyeonlog](https://github.com/ahyeonlog)|
+|Sujin Hyeon|[h971114](https://github.com/h971114/)| 
+|SSAFYKIM|[kimheesung](https://github.com/kimheesung)|
+|Dayun Kim|[daaaaaayoon](https://github.com/daaaaaayoon/)| 
+|Jihwan Jeong|[kkiu1756](https://github.com/kkiu1756/)| 
+|Jiyoung Lee|[itzjamie96](https://github.com/itzjamie96)
+|Haneul Kim|[Kim-Ha-neul](https://github.com/Kim-Ha-neul/)| 
+|Hyemin Kim|[alsdk3586](https://github.com/alsdk3586)|
+|Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
+|sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
+|Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Yujin Lee|[leejjin](https://github.com/leejjin/)| 
+|Sujin Kim|[5uin](https://github.com/5ujin/)|
+|powerticket|[powerticket](https://github.com/powerticket/)|
+|Jinyoung Han|[jinyoungHan](https://github.com/jinyoungHan)|
+|Sungho Park|[solser12](https://github.com/solser12/)|
+|Sunghoon Cho|[JoChoSunghoon](https://github.com/JoChoSunghoon)|
+|ShinDajeong|[ShinDajeong](https://github.com/ShinDajeong/)|
+|Sunseok Kim|[channeli1194](https://github.com/channeli1194/)|
+|kruskal|[General-code](https://github.com/General-code)|
+|Nahyun Choi|[feb4th](https://github.com/feb4th)|
