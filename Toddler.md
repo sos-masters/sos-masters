@@ -532,6 +532,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Nari Kim|[rosenari](https://github.com/rosenari)|
 |Euntaek Lee|[rudus1012](https://github.com/rudus1012/)|
 |Donggeol Kim|[ehd6481](https://github.com/ehd6481/)|
 |Soobin Park|[devtitch](https://github.com/devtitch)|
