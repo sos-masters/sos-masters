@@ -588,3 +588,4 @@
 |SengYup Han|[hsy118](https://github.com/hsy118/)|
 |Hobin Im|[elwlahd555](https://github.com/elwlahd555/)|
 |Jisoo Kim|[coffeii](https://github.com/coffeii/)| 
+|Eunji Yi|[EunjiYi](https://github.com/EunjiYi)|
