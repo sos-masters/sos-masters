@@ -531,7 +531,8 @@
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
-|Yumin Heo|[yumin97](https://github.com/yumin97/)|
+|Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|jaehyunup|[jaehyun-up](https://github.com/jaehyunup)|
 |Sumin Lee|[sumin416](https://github.com/sumin416/)| 
 |Ko Yuchang|[go95305](https://github.com/go95305/)| 
 |SoJeong Kim|[itoggi03](https://github.com/itoggi03/)|
