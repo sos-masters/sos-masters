@@ -712,3 +712,4 @@
 |DAAE CHOI|[DAAECHOI](https://github.com/DAAECHOI)| 
 |ChunMinju|[minju75](https://github.com/minju75/)| 
 |Lee-DoGun|[Lee-DoGun](https://github.com/Lee-DoGun)|
+|Jaesung Kim|[kimjea23](https://github.com/JS-2/)|
