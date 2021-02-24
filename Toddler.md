@@ -567,6 +567,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Anseik|[Anseik](https://github.com/Anseik)|
 |Byeonghee Lee|[MrCodeMania](https://github.com/mrcodemania)|
 |helloworld|[sy9612](https://github.com/sy9612)|
 |SJun|[jun9395](https://github.com/jun9395)|
