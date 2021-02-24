@@ -724,3 +724,4 @@
 |Dahui Hwang|[ekgml3765](https://github.com/ekgml3765/)| 
 |hyejiny|[hyejiny](https://github.com/hyejiny)|
 |Byeongsu Kim|[bste1220](https://github.com/bste1220)| 
+|Hyunsoo|[laugh4mile](https://github.com/laugh4mile)|
