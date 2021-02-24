@@ -571,6 +571,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Hwang Kyungseo|[kyungseo789](https://github.com/kyungseo55)|
 |GeonHee Ryu|[RGunny](https://github.com/rgunny)|
 |JinHyeok Hyeon|[hyeonjinhyeok](https://github.com/hyeonjinhyeok)|
 |shcjsaud3613|[shcjsaud3613](https://github.com/shcjsaud3613)|
