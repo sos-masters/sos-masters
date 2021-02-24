@@ -531,6 +531,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Daeyeong Jeong|[kingdom](https://github.com/kingdom/)| 
 |stateaward|[stateaward](https://github.com/stateaward/)| 
 |Chaewon Kang|[chaewon-k](https://github.com/chaewon-k/)|
 |Damin Kim|[damingu](https://github.com/damingu/)| 
