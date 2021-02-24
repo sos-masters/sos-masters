@@ -706,3 +706,4 @@
 |wantLee|[doggodi303](https://github.com/wonhoelee)|
 |grey|[khjeon5328](https://github.com/khjeon5328)|
 |Yeom|[Yeom-sung-hun](https://github.com/Yeom-sung-hun)
+|Buri|[buri-1029](https://github.com/buri-1029)|
