@@ -569,6 +569,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|je Kim|[jieunkkk](https://github.com/jieunkkk)|
 |johyunsub|[johyunsub](https://github.com/johyunsub)|
 |djdobi|[xoghks1397](https://github.com/xoghks1397)|
 |Anseik|[Anseik](https://github.com/Anseik)|
