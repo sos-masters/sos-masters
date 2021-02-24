@@ -531,6 +531,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)|
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Stanajh|[Stanajh](https://github.com/Stanajh)| 
 |Heeeun Cho|[zzdhxm12](https://github.com/zzdhxm12/)| 
 |Chaelin Kim|[kimchaelin13](https://github.com/kimchaelin13)|
 |Dongjun Kim|[halo2281](https://github.com/halo2281/)| 
