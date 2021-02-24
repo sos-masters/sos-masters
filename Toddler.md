@@ -531,6 +531,7 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)|
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Duckin Jang|[JANGDUCKIN](https://github.com/JANGDUCKIN)|
 |Jaeyong Jang|[kaslock](https://github.com/kaslock/)| 
 |Stanajh|[Stanajh](https://github.com/Stanajh)| 
 |Heeeun Cho|[zzdhxm12](https://github.com/zzdhxm12/)| 
