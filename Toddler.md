@@ -531,6 +531,12 @@
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
 |Yeonjin Kim|[ygk313](https://github.com/ygk313)|
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
+|Junwoong An|[Jun-Woong](https://github.com/Jun-Woong/)| 
+|Duckin Jang|[JANGDUCKIN](https://github.com/JANGDUCKIN)|
+|Jaeyong Jang|[kaslock](https://github.com/kaslock/)| 
+|Stanajh|[Stanajh](https://github.com/Stanajh)| 
+|Heeeun Cho|[zzdhxm12](https://github.com/zzdhxm12/)| 
+|Chaelin Kim|[kimchaelin13](https://github.com/kimchaelin13)|
 |Dongjun Kim|[halo2281](https://github.com/halo2281/)| 
 |Daeyeong Jeong|[kingdom](https://github.com/kingdom/)| 
 |stateaward|[stateaward](https://github.com/stateaward/)| 
@@ -570,6 +576,20 @@
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
 |Yujeong Kang|[yujeong0](https://github.com/yujeong0)|
+|AshOil|[AshOil](https://github.com/AshOil)|
+|NakYoung|[nakyoung716](https://github.com/nakyoung716)|
+|BaeSangUng|[BaeSangUng](https://github.com/BaeSangUng)|
+|Hwang Kyungseo|[kyungseo789](https://github.com/kyungseo55)|
+|GeonHee Ryu|[RGunny](https://github.com/rgunny)|
+|JinHyeok Hyeon|[hyeonjinhyeok](https://github.com/hyeonjinhyeok)|
+|shcjsaud3613|[shcjsaud3613](https://github.com/shcjsaud3613)|
+|SurimJ|[smill5059](https://github.com/smill5059)|
+|yjsun|[jsyoun0823](https://github.com/jsyoun0823)|
+|Suyeon Cha|[pepprbell](https://github.com/pepprbell)|
+|Leesungheon|[Lee-sungheon](https://github.com/Lee-sungheon)|
+|jinhwan|[tnqkrtktma](https://github.com/tnqkrtktma)|
+|Sunmin Song|[ipodsong](https://github.com/ipodsong)|
+|dony|[rurowoni](https://github.com/rurowoni)|
 |Juhyo Kim|[kjuhyo](https://github.com/kjuhyo)|
 |Jisunshine|[giga1615](https://github.com/giga1615)|
 |Jieun Song|[songjieun](https://github.com/wldms0408)|
