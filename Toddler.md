@@ -709,3 +709,4 @@
 |Buri|[buri-1029](https://github.com/buri-1029)|
 |sumin lee|[tnalsvjscl](https://github.com/leesuuuuumm/)| 
 |Real100|[kjw11036@gmail.com](https://github.com/KimJungWoong)|
+|DAAE CHOI|[DAAECHOI](https://github.com/DAAECHOI)| 
