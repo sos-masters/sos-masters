@@ -569,6 +569,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Sunmin Song|[ipodsong](https://github.com/ipodsong)|
 |dony|[rurowoni](https://github.com/rurowoni)|
 |Yujeong Kang|[yujeong](https://github.com/yujeong)|
 |Juhyo Kim|[kjuhyo](https://github.com/kjuhyo)|
