@@ -566,6 +566,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Hyeji Lee|[reverse-wisdom](https://github.com/reverse-wisdom)|
 |Yujin Lee|[leejjin](https://github.com/leejjin/)| 
 |Sujin Kim|[5uin](https://github.com/5ujin/)|
 |powerticket|[powerticket](https://github.com/powerticket/)|
