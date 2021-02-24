@@ -569,6 +569,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Suyeon Cha|[pepprbell](https://github.com/pepprbell)|
 |Leesungheon|[Lee-sungheon](https://github.com/Lee-sungheon)|
 |jinhwan|[tnqkrtktma](https://github.com/tnqkrtktma)|
 |Sunmin Song|[ipodsong](https://github.com/ipodsong)|
