@@ -660,3 +660,4 @@
 |Sooa Park|[irissooa](https://github.com/irissooa)| 
 |Suwan Oh|[swanious](https://github.com/swanious/)| 
 |Sejun Kang|[se-jun](https://github.com/se-jun/)| 
+|Mintaek Oh|[omt1025](https://github.com/omt1025)|
