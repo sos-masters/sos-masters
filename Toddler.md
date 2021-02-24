@@ -723,3 +723,4 @@
 |Jihyeon Lee|[Lee-jiHyeon](https://github.com/Lee-JiHyeon)|
 |Dahui Hwang|[ekgml3765](https://github.com/ekgml3765/)| 
 |hyejiny|[hyejiny](https://github.com/hyejiny)|
+|Byeongsu Kim|[bste1220](https://github.com/bste1220)| 
