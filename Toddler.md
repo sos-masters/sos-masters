@@ -710,3 +710,4 @@
 |sumin lee|[tnalsvjscl](https://github.com/leesuuuuumm/)| 
 |Real100|[kjw11036@gmail.com](https://github.com/KimJungWoong)|
 |DAAE CHOI|[DAAECHOI](https://github.com/DAAECHOI)| 
+|ChunMinju|[minju75](https://github.com/minju75/)| 
