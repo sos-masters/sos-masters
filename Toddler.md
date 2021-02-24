@@ -575,6 +575,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Yujeong Kang|[yujeong0](https://github.com/yujeong0)|
 |AshOil|[AshOil](https://github.com/AshOil)|
 |NakYoung|[nakyoung716](https://github.com/nakyoung716)|
 |BaeSangUng|[BaeSangUng](https://github.com/BaeSangUng)|
@@ -589,7 +590,6 @@
 |jinhwan|[tnqkrtktma](https://github.com/tnqkrtktma)|
 |Sunmin Song|[ipodsong](https://github.com/ipodsong)|
 |dony|[rurowoni](https://github.com/rurowoni)|
-|Yujeong Kang|[yujeong](https://github.com/yujeong)|
 |Juhyo Kim|[kjuhyo](https://github.com/kjuhyo)|
 |Jisunshine|[giga1615](https://github.com/giga1615)|
 |Jieun Song|[songjieun](https://github.com/wldms0408)|
