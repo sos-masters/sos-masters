@@ -654,3 +654,4 @@
 |hanjihyun|[hanjihyun](https://github.com/hanjihyun/)|
 |minchang0116|[minchang0116](https://github.com/minchang0116/)|
 |Hansol Kim|[mentalK94](https://github.com/mentalK94/)| 
+|Jaebok Shin|[sjb909](https://github.com/sjb909/)| 
