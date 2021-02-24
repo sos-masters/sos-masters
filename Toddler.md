@@ -567,6 +567,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|SeungHwan Yun|[lovelyunsh](https://github.com/lovelyunsh)|
 |Changgeun Lee|[SeglerLee](https://github.com/seglerlee)|
 |donghyun kim|[donghyun](https://github.com/donghyunkimk)|
 |Hyeji Lee|[reverse-wisdom](https://github.com/reverse-wisdom)|
