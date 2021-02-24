@@ -569,6 +569,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Yujeong Kang|[yujeong](https://github.com/yujeong)|
 |Juhyo Kim|[kjuhyo](https://github.com/kjuhyo)|
 |Jisunshine|[giga1615](https://github.com/giga1615)|
 |Jieun Song|[songjieun](https://github.com/wldms0408)|
