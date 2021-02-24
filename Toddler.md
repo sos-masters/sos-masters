@@ -569,6 +569,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|kesay59|[kesay59](https://github.com/kesay59)|
 |Gyuyong Lee|[gyuyong290](https://github.com/gyuyong290)|
 |Munjeong Kim|[moong3871](https://github.com/moong3871)|
 |yunseowan|[yunseowan](https://github.com/seowan)| 
