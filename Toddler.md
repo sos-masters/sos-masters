@@ -662,3 +662,4 @@
 |Sejun Kang|[se-jun](https://github.com/se-jun/)| 
 |Mintaek Oh|[omt1025](https://github.com/omt1025)|
 |Euisu Jeon|[jes5918](https://github.com/jes5918/)|
+|Minjung Kim|[snowcuphea](https://github.com/snowcuphea)|
