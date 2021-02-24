@@ -575,6 +575,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|NakYoung|[nakyoung716](https://github.com/nakyoung716)|
 |BaeSangUng|[BaeSangUng](https://github.com/BaeSangUng)|
 |Hwang Kyungseo|[kyungseo789](https://github.com/kyungseo55)|
 |GeonHee Ryu|[RGunny](https://github.com/rgunny)|
