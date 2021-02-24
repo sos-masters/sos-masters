@@ -567,6 +567,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|SJun|[jun9395](https://github.com/jun9395)|
 |gingersnaps|[dbdtrapper](https://github.com/dbdtrapper)|
 |Choong Seob|[NICEGINI](https://github.com/NICEGINI)| 
 |Dawoon Lee|[rhdrlvnd](https://github.com/rhdrlvnd)|
