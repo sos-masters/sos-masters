@@ -529,7 +529,7 @@
 |Dasong Sim|[SimDaSong](https://github.com/SimDaSong)|
 |Juyeong Lee|[JuYeong0413](https://github.com/JuYeong0413)|
 |Minho Song|[mhsong9943](https://github.com/mhsong9943)|
-|Yeonjin Kim|[ygk313](https://github.com/ygk313)| 
+|Yeonjin Kim|[ygk313](https://github.com/ygk313)|
 |Yumin Heo|[yumin97](https://github.com/yumin97/)| 
 |Dongjun Kim|[halo2281](https://github.com/halo2281/)| 
 |Daeyeong Jeong|[kingdom](https://github.com/kingdom/)| 
@@ -722,3 +722,4 @@
 |YuJeong Baek|[BAEKYUJEONG](https://github.com/BAEKYUJEONG)|
 |Jihyeon Lee|[Lee-jiHyeon](https://github.com/Lee-JiHyeon)|
 |Dahui Hwang|[ekgml3765](https://github.com/ekgml3765/)| 
+|hyejiny|[hyejiny](https://github.com/hyejiny)|
