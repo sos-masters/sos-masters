@@ -726,3 +726,4 @@
 |Byeongsu Kim|[bste1220](https://github.com/bste1220)| 
 |Hyunsoo|[laugh4mile](https://github.com/laugh4mile)|
 |bonghyun|[eeapbh](https://github.com/eeapbh/)| 
+|Jaeseok Go|[jaeseok-go](https://github.com/jaeseok-go)|
