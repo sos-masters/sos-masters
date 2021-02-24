@@ -567,6 +567,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|chL|[Baekgol](https://github.com/Baekgol)|
 |donghyun Shin|[donghyun1234](https://github.com/donghyun1234)|
 |Ayoung Lee|[LeeA0](https://github.com/LeeA0)|
 |Gisung Park|[gisungPark](https://github.com/gisungPark)|
