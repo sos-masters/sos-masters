@@ -577,6 +577,7 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Jihyeong Kim|[Ji-hyeong](https://github.com/Ji-hyeong)|
 |jiny|[Luminousjiny](https://github.com/Luminousjiny)|
 |Yujeong Kang|[yujeong0](https://github.com/yujeong0)|
 |AshOil|[AshOil](https://github.com/AshOil)|
