@@ -556,3 +556,4 @@
 |Nakhoon Choi|[longnh214](https://github.com/longnh214/)| 
 |sewonkimm|[sewonkimm](https://github.com/sewonkimm)| 
 |Prestto|[dearhyunmo](https://github.com/dearhyunmo)|
+|Jihyeong Kim|[Ji-hyeong](https://github.com/Ji-hyeong)|
