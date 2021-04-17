@@ -767,3 +767,4 @@
 |hyulee|[ceuity](https://github.com/ceuity)|
 |Minkyum Kim|[MinKyum-e](https://github.com/MinKyum-e)|
 |saoh|[42-saoh](https://github.com/42-saoh)|
+|jjang|[junyeongjang](https://github.com/junyeongjang)| 
