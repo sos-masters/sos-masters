@@ -770,3 +770,4 @@
 |jjang|[junyeongjang](https://github.com/junyeongjang)| 
 |Minjune_|[minjune8506](https://github.com/minjune8506)|
 |mihyun|[algus713](https://github.com/algus713)|
+|BaeUsuk|[qodntjr](https://github.com/qodntjr)|
