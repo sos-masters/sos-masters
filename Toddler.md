@@ -770,6 +770,7 @@
 |jjang|[junyeongjang](https://github.com/junyeongjang)| 
 |Minjune_|[minjune8506](https://github.com/minjune8506)|
 |mihyun|[algus713](https://github.com/algus713)|
+|1st-award|[1st-award](https://github.com/1st-award)|
 |BaeUsuk|[qodntjr](https://github.com/qodntjr)|
 |BaekKyungMin|[SSODADA](https://github.com/SSODADA)|
 |gusgotoyu365|[gusgotoyu365](https://github.com/gusgotoyu365)| 
