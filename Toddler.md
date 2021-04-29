@@ -771,3 +771,4 @@
 |Minjune_|[minjune8506](https://github.com/minjune8506)|
 |mihyun|[algus713](https://github.com/algus713)|
 |gusgotoyu365|[gusgotoyu365](https://github.com/gusgotoyu365)| 
+|Junyoung|[belol311](https://github.com/belol311)|
