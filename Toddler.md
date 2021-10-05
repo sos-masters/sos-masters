@@ -777,3 +777,4 @@
 |Junyoung|[belol311](https://github.com/belol311)|
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
+|YeJin Choi|[YeJin-Choi88](https://github.com/YeJin-Choi88)|
