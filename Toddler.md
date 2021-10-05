@@ -777,4 +777,4 @@
 |Junyoung|[belol311](https://github.com/belol311)|
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
-|GunTak Lee|[wow2658](https://github.com/wow2658)|
+|vp_pdoochi|[wow2658](https://github.com/wow2658)|
