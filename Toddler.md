@@ -1,5 +1,5 @@
 |Nick Name|ID(Github Link Address)|
-|-|-|
+|Minjea31|Minjea31(https://github.com/Minjea31)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
