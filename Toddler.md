@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+|GaEun Kim|[KGE108](https://github.com/KGE108)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
