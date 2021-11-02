@@ -779,6 +779,7 @@
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
 |HyunTaek Oh|[HyunTaek5](https://github.com/HyunTaek5)|
+|SeokWan Kang|[blacksg](https://github.com/blacksg)|
 |Jimin Lee|[minbarry-0915](https://github.com/minbarry-0915)|
 |Geon Cho|[chogun08214](https://github.com/chogun08214)|
 |ByungChul Cha|[CBNU-ByungChul](https://github.com/CBNU-ByungChul)|
