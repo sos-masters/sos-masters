@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+|Gyuha Lee|[KongsuniComputer](https://github.com/KongsuniComputer)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -778,3 +779,10 @@
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
 |HyunTaek Oh|[HyunTaek5](https://github.com/HyunTaek5)|
+|SeokWan Kang|[blacksg](https://github.com/blacksg)|
+|Jimin Lee|[minbarry-0915](https://github.com/minbarry-0915)|
+|Geon Cho|[chogun08214](https://github.com/chogun08214)|
+|ByungChul Cha|[CBNU-ByungChul](https://github.com/CBNU-ByungChul)|
+|Chanwoo Kim|[aries043](https://github.com/aries043)|
+|edoyun|[edoyun](https://github.com/edoyun)|
+|silverleopard|[silverleopard12](https://github.com/silverleopard12)|
