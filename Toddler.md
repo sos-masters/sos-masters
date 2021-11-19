@@ -787,3 +787,4 @@
 |edoyun|[edoyun](https://github.com/edoyun)|
 |silverleopard|[silverleopard12](https://github.com/silverleopard12)|
 |KyeongTaek|[KyeongTaek](https://github.com/KyeongTaek)|
+|HyorimLee|[hyorimlee](https://github.com/hyorimlee)|
