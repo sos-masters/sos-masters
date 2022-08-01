@@ -789,4 +789,4 @@
 |KyeongTaek|[KyeongTaek](https://github.com/KyeongTaek)|
 |swlee|[chheze](https://github.com/chheze)|
 |HyorimLee|[hyorimlee](https://github.com/hyorimlee)|
-|someee|[sommizzu](https://github.com/sommizzu))|
+|someee|[sommizzu](https://github.com/sommizzu)|
