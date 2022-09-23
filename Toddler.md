@@ -789,3 +789,4 @@
 |KyeongTaek|[KyeongTaek](https://github.com/KyeongTaek)|
 |swlee|[chheze](https://github.com/chheze)|
 |HyorimLee|[hyorimlee](https://github.com/hyorimlee)|
+|Park Mira|[miracle-mira](https://github.com/miracle-mira)|
