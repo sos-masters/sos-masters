@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+|SoonGyu|[kwonsoongyu](https://github.com/kwonsoongyu)|
 |Gyuha Lee|[KongsuniComputer](https://github.com/KongsuniComputer)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
