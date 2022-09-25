@@ -1,5 +1,6 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
+
 |Gyuha Lee|[KongsuniComputer](https://github.com/KongsuniComputer)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
@@ -10,7 +11,7 @@
 |Dongock Lee|[Dongock](https://github.com/Dongock)|
 |yeggu_e|[yeafla530](https://github.com/yeafla530)|
 |hyunwoo Rim|[hyunwoo](https://github.com/lhw0215)|
-|Blancdu|[hongsj36](https://github.com/hongsj36)|
+|Yongseon Lee|[yongzza](https://github.com/yongzza)|
 |mungto|[daum7766](https://github.com/daum7766)|
 |Dohui Park|[do-park](https://github.com/do-park)|
 |Seungkyung Lee|[lee03190](https://github.com/lee03190)|
