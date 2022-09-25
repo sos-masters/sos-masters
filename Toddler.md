@@ -1,4 +1,4 @@
-|Nick Name|ID(Github Link Address)|
+|Nick Name|Minseonhong(tjsghd456@naver.com)|
 |-|-|
 |Gyuha Lee|[KongsuniComputer](https://github.com/KongsuniComputer)|
 |Heesung|[heesung84](https://github.com/heesung84)|
