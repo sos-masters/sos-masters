@@ -777,6 +777,7 @@
 |gusgotoyu365|[gusgotoyu365](https://github.com/gusgotoyu365)| 
 |Junyoung|[belol311](https://github.com/belol311)|
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
+|Jackson|[spi3ex](https://github.com/spi3ex)
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
 |HyunTaek Oh|[HyunTaek5](https://github.com/HyunTaek5)|
 |SeokWan Kang|[blacksg](https://github.com/blacksg)|
